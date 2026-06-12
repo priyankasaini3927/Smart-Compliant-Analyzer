@@ -1,4 +1,3 @@
-# Citizen-Grievance-Intelligence-Platform
 # Smart Complaint Analyzer
 
 An AI-powered complaint management system built using FastAPI, Streamlit, and MongoDB Atlas.
