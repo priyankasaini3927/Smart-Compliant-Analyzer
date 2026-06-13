@@ -1,3 +1,101 @@
-id,complaint,category,urgency,timestamp
-17ed9150,There is a dangerous pothole on the road,Roads,High,2026-06-08 13:34:58.800671
-c9cf8806,Water leakage near my house,Water,Low,2026-06-08 13:37:11.083778
+text,category
+Medical waste dumped behind clinic,Health
+Expired medicines sold at pharmacy,Health
+Outbreak of dengue in locality,Health
+Ambulance response time delayed,Health
+Public clinic lacking basic equipment,Health
+Stagnant water breeding dengue larvae,Health
+Doctor unavailable at primary health center,Health
+Contaminated food served at school canteen,Health
+Vaccine shortage at local hospital,Health
+Stray dogs biting pedestrians,Health
+Hospital waste tracking system offline,Health
+X-ray machine malfunctioning,Health
+No wheelchair ramp at clinic entry,Health
+Blood bank running low on O-negative,Health
+Rats spotted in hospital ward,Health
+Unlicensed medical practitioner operating,Health
+Food poisoning cases reported from restaurant,Health
+Lack of sanitizers in public health center,Health
+Sewage leaking near drinking water source,Health
+Air pollution levels exceeding emergency limits,Health
+Fire exit locked in shopping mall,Safety
+No security guard at ATM booth,Safety
+Open electrical panel near children playground,Safety
+Broken railing on overhead pedestrian bridge,Safety
+Dark alleyway lacks security cameras,Safety
+Suspicious baggage left unattended,Safety
+Construction workers operating without helmets,Safety
+Emergency alarm system malfunctioning,Safety
+Hazardous chemical storage lacks warning signs,Safety
+School bus missing seatbelts,Safety
+Gas cylinder leakage suspected in market,Safety
+Narrow staircase lacks handrails,Safety
+Elevator drops suddenly between floors,Safety
+No lifeguards at public beach,Safety
+Broken glass bottles spread across playground,Safety
+Fire extinguisher past expiry date,Safety
+Cracked glass pane on high-rise building,Safety
+Rusty iron spikes exposed on boundary wall,Safety
+Scaffolding buckling at construction site,Safety
+Industrial siren ringing continuously,Safety
+Metro train door not closing properly,Transport
+Bus arriving two hours late,Transport
+Subway ticketing machine out of order,Transport
+Overcrowded commuter train during rush hour,Transport
+Taxi driver overcharging passengers,Transport
+Bus stop signboard missing,Transport
+No bicycle lane on major avenue,Transport
+Airport shuttle service suspended,Transport
+E-scooter blocking wheelchair ramp,Transport
+Flight delayed without explanation,Transport
+Ferry service halted due to engine failure,Transport
+Inaccurate GPS tracking on transit app,Transport
+Auto-rickshaw driver refusing short rides,Transport
+Train station display board blank,Transport
+Ticket validation machine broken,Transport
+Bus exhaust emitting thick black smoke,Transport
+No parking space at metro station,Transport
+Rude behavior by transit staff,Transport
+Pedestrian crossing duration too short,Transport
+Invalid schedule printed on bus timetable,Transport
+Pothole on highway,Roads
+Road damaged near station,Roads
+Water leakage in building,Water
+Broken water pipe,Water
+No electricity in area,Electricity
+Power outage since morning,Electricity
+Street light not working,Electricity
+Garbage not collected,Other
+Large crack on main road,Roads
+Traffic light malfunctioning at crossroad,Roads
+Speed bump poorly marked,Roads
+Road flooded after brief rain,Roads
+Loose gravel causing skidding,Roads
+Sewer backup onto street,Roads
+Sidewalk blocks uneven and loose,Roads
+Road paint faded completely,Roads
+Low water pressure in locality,Water
+Water supply smells like chemicals,Water
+Main water line bursting open,Water
+Muddy water from kitchen tap,Water
+Public drinking fountain broken,Water
+Fire hydrant spraying water unchecked,Water
+No water supply for two days,Water
+Drainage water mixing with supply,Water
+High voltage fluctuation damaging appliances,Electricity
+Transformer sparking loudly,Electricity
+Electric pole leaning dangerously,Electricity
+Fallen power line on road,Electricity
+Smart meter showing error code,Electricity
+Substation failure causing blackout,Electricity
+Street light flickering non-stop,Electricity
+High-tension wire hanging low,Electricity
+Stray dog menace near school,Other
+Illegal garbage dumping in vacant lot,Other
+Loud music playing past midnight,Other
+Public park benches broken,Other
+Open drain emit foul smell,Other
+Public toilet untidy and unusable,Other
+Abandoned vehicle collecting dust,Other
+Tree branch about to fall,Other
