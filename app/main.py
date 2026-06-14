@@ -6,8 +6,8 @@ from datetime import datetime
 import joblib
 
 # Load the trained model and vectorizer
-model = joblib.load("model.pkl")
-vectorizer = joblib.load("vectorizer.pkl")
+model = joblib.load("app/model.pkl")
+vectorizer = joblib.load("app/vectorizer.pkl")
 
 app = FastAPI()
 
