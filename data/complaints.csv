@@ -1,101 +1,1401 @@
 text,category
-Medical waste dumped behind clinic,Health
-Expired medicines sold at pharmacy,Health
-Outbreak of dengue in locality,Health
-Ambulance response time delayed,Health
-Public clinic lacking basic equipment,Health
-Stagnant water breeding dengue larvae,Health
-Doctor unavailable at primary health center,Health
-Contaminated food served at school canteen,Health
-Vaccine shortage at local hospital,Health
-Stray dogs biting pedestrians,Health
-Hospital waste tracking system offline,Health
-X-ray machine malfunctioning,Health
-No wheelchair ramp at clinic entry,Health
-Blood bank running low on O-negative,Health
-Rats spotted in hospital ward,Health
-Unlicensed medical practitioner operating,Health
-Food poisoning cases reported from restaurant,Health
-Lack of sanitizers in public health center,Health
-Sewage leaking near drinking water source,Health
-Air pollution levels exceeding emergency limits,Health
-Fire exit locked in shopping mall,Safety
-No security guard at ATM booth,Safety
-Open electrical panel near children playground,Safety
-Broken railing on overhead pedestrian bridge,Safety
-Dark alleyway lacks security cameras,Safety
-Suspicious baggage left unattended,Safety
-Construction workers operating without helmets,Safety
-Emergency alarm system malfunctioning,Safety
-Hazardous chemical storage lacks warning signs,Safety
-School bus missing seatbelts,Safety
-Gas cylinder leakage suspected in market,Safety
-Narrow staircase lacks handrails,Safety
-Elevator drops suddenly between floors,Safety
-No lifeguards at public beach,Safety
-Broken glass bottles spread across playground,Safety
-Fire extinguisher past expiry date,Safety
-Cracked glass pane on high-rise building,Safety
-Rusty iron spikes exposed on boundary wall,Safety
-Scaffolding buckling at construction site,Safety
-Industrial siren ringing continuously,Safety
-Metro train door not closing properly,Transport
-Bus arriving two hours late,Transport
-Subway ticketing machine out of order,Transport
-Overcrowded commuter train during rush hour,Transport
-Taxi driver overcharging passengers,Transport
-Bus stop signboard missing,Transport
-No bicycle lane on major avenue,Transport
-Airport shuttle service suspended,Transport
-E-scooter blocking wheelchair ramp,Transport
-Flight delayed without explanation,Transport
-Ferry service halted due to engine failure,Transport
-Inaccurate GPS tracking on transit app,Transport
-Auto-rickshaw driver refusing short rides,Transport
-Train station display board blank,Transport
-Ticket validation machine broken,Transport
-Bus exhaust emitting thick black smoke,Transport
-No parking space at metro station,Transport
-Rude behavior by transit staff,Transport
-Pedestrian crossing duration too short,Transport
-Invalid schedule printed on bus timetable,Transport
-Pothole on highway,Roads
-Road damaged near station,Roads
-Water leakage in building,Water
-Broken water pipe,Water
-No electricity in area,Electricity
-Power outage since morning,Electricity
-Street light not working,Electricity
-Garbage not collected,Other
-Large crack on main road,Roads
-Traffic light malfunctioning at crossroad,Roads
-Speed bump poorly marked,Roads
-Road flooded after brief rain,Roads
-Loose gravel causing skidding,Roads
-Sewer backup onto street,Roads
-Sidewalk blocks uneven and loose,Roads
-Road paint faded completely,Roads
-Low water pressure in locality,Water
-Water supply smells like chemicals,Water
-Main water line bursting open,Water
-Muddy water from kitchen tap,Water
-Public drinking fountain broken,Water
-Fire hydrant spraying water unchecked,Water
-No water supply for two days,Water
-Drainage water mixing with supply,Water
-High voltage fluctuation damaging appliances,Electricity
-Transformer sparking loudly,Electricity
-Electric pole leaning dangerously,Electricity
-Fallen power line on road,Electricity
-Smart meter showing error code,Electricity
-Substation failure causing blackout,Electricity
-Street light flickering non-stop,Electricity
-High-tension wire hanging low,Electricity
-Stray dog menace near school,Other
-Illegal garbage dumping in vacant lot,Other
-Loud music playing past midnight,Other
-Public park benches broken,Other
-Open drain emit foul smell,Other
-Public toilet untidy and unusable,Other
-Abandoned vehicle collecting dust,Other
-Tree branch about to fall,Other
+Residents reported a clinic issue near the central market. Complaint reference 1.,Health
+A serious problem related to vaccination has been observed. Complaint reference 2.,Health
+Citizens complained about medicine causing inconvenience. Complaint reference 3.,Health
+Repeated requests have been made to resolve the clinic issue. Complaint reference 4.,Health
+People in the locality are concerned about clinic. Complaint reference 5.,Health
+Residents reported a medical waste issue near the central market. Complaint reference 6.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 7.,Health
+A serious problem related to medicine has been observed. Complaint reference 8.,Health
+People in the locality are concerned about dengue. Complaint reference 9.,Health
+Repeated requests have been made to resolve the Hospital issue. Complaint reference 10.,Health
+Repeated requests have been made to resolve the medicine issue. Complaint reference 11.,Health
+A serious problem related to medical waste has been observed. Complaint reference 12.,Health
+People in the locality are concerned about health center. Complaint reference 13.,Health
+Residents reported a vaccination issue near the central market. Complaint reference 14.,Health
+Public safety is affected due to ambulance. Complaint reference 15.,Health
+Multiple complaints received regarding sanitation this week. Complaint reference 16.,Health
+A serious problem related to ambulance has been observed. Complaint reference 17.,Health
+Urgent attention required for sanitation in the residential area. Complaint reference 18.,Health
+Public safety is affected due to clinic. Complaint reference 19.,Health
+The local authority should inspect the clinic immediately. Complaint reference 20.,Health
+People in the locality are concerned about sanitation. Complaint reference 21.,Health
+Residents reported a vaccination issue near the central market. Complaint reference 22.,Health
+Repeated requests have been made to resolve the health center issue. Complaint reference 23.,Health
+Public safety is affected due to clinic. Complaint reference 24.,Health
+Repeated requests have been made to resolve the clinic issue. Complaint reference 25.,Health
+People in the locality are concerned about vaccination. Complaint reference 26.,Health
+People in the locality are concerned about sanitation. Complaint reference 27.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 28.,Health
+A serious problem related to Hospital has been observed. Complaint reference 29.,Health
+Urgent attention required for vaccination in the residential area. Complaint reference 30.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 31.,Health
+Multiple complaints received regarding medical waste this week. Complaint reference 32.,Health
+The local authority should inspect the health center immediately. Complaint reference 33.,Health
+The local authority should inspect the ambulance immediately. Complaint reference 34.,Health
+A serious problem related to sanitation has been observed. Complaint reference 35.,Health
+Urgent attention required for vaccination in the residential area. Complaint reference 36.,Health
+Citizens complained about doctor causing inconvenience. Complaint reference 37.,Health
+A serious problem related to dengue has been observed. Complaint reference 38.,Health
+The condition of ambulance has worsened over the last month. Complaint reference 39.,Health
+Multiple complaints received regarding medical waste this week. Complaint reference 40.,Health
+A serious problem related to dengue has been observed. Complaint reference 41.,Health
+Residents reported a sanitation issue near the central market. Complaint reference 42.,Health
+Residents reported a medicine issue near the central market. Complaint reference 43.,Health
+Public safety is affected due to sanitation. Complaint reference 44.,Health
+Urgent attention required for vaccination in the residential area. Complaint reference 45.,Health
+People in the locality are concerned about medicine. Complaint reference 46.,Health
+A serious problem related to sanitation has been observed. Complaint reference 47.,Health
+Public safety is affected due to health center. Complaint reference 48.,Health
+Citizens complained about health center causing inconvenience. Complaint reference 49.,Health
+Citizens complained about vaccination causing inconvenience. Complaint reference 50.,Health
+Repeated requests have been made to resolve the medicine issue. Complaint reference 51.,Health
+Multiple complaints received regarding dengue this week. Complaint reference 52.,Health
+Public safety is affected due to doctor. Complaint reference 53.,Health
+Public safety is affected due to doctor. Complaint reference 54.,Health
+A serious problem related to sanitation has been observed. Complaint reference 55.,Health
+Repeated requests have been made to resolve the ambulance issue. Complaint reference 56.,Health
+Urgent attention required for health center in the residential area. Complaint reference 57.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 58.,Health
+Citizens complained about ambulance causing inconvenience. Complaint reference 59.,Health
+People in the locality are concerned about medical waste. Complaint reference 60.,Health
+Public safety is affected due to clinic. Complaint reference 61.,Health
+People in the locality are concerned about medical waste. Complaint reference 62.,Health
+Repeated requests have been made to resolve the health center issue. Complaint reference 63.,Health
+Repeated requests have been made to resolve the vaccination issue. Complaint reference 64.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 65.,Health
+Multiple complaints received regarding dengue this week. Complaint reference 66.,Health
+Urgent attention required for sanitation in the residential area. Complaint reference 67.,Health
+Public safety is affected due to vaccination. Complaint reference 68.,Health
+The condition of ambulance has worsened over the last month. Complaint reference 69.,Health
+Multiple complaints received regarding Hospital this week. Complaint reference 70.,Health
+Citizens complained about dengue causing inconvenience. Complaint reference 71.,Health
+Urgent attention required for dengue in the residential area. Complaint reference 72.,Health
+Repeated requests have been made to resolve the vaccination issue. Complaint reference 73.,Health
+A serious problem related to doctor has been observed. Complaint reference 74.,Health
+The local authority should inspect the ambulance immediately. Complaint reference 75.,Health
+Repeated requests have been made to resolve the ambulance issue. Complaint reference 76.,Health
+Residents reported a dengue issue near the central market. Complaint reference 77.,Health
+The local authority should inspect the doctor immediately. Complaint reference 78.,Health
+Residents reported a health center issue near the central market. Complaint reference 79.,Health
+The local authority should inspect the clinic immediately. Complaint reference 80.,Health
+A serious problem related to vaccination has been observed. Complaint reference 81.,Health
+A serious problem related to Hospital has been observed. Complaint reference 82.,Health
+Urgent attention required for doctor in the residential area. Complaint reference 83.,Health
+The condition of clinic has worsened over the last month. Complaint reference 84.,Health
+Repeated requests have been made to resolve the clinic issue. Complaint reference 85.,Health
+Citizens complained about ambulance causing inconvenience. Complaint reference 86.,Health
+Repeated requests have been made to resolve the health center issue. Complaint reference 87.,Health
+Multiple complaints received regarding ambulance this week. Complaint reference 88.,Health
+People in the locality are concerned about dengue. Complaint reference 89.,Health
+A serious problem related to medical waste has been observed. Complaint reference 90.,Health
+A serious problem related to dengue has been observed. Complaint reference 91.,Health
+Public safety is affected due to vaccination. Complaint reference 92.,Health
+The condition of sanitation has worsened over the last month. Complaint reference 93.,Health
+The condition of dengue has worsened over the last month. Complaint reference 94.,Health
+A serious problem related to clinic has been observed. Complaint reference 95.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 96.,Health
+Residents reported a sanitation issue near the central market. Complaint reference 97.,Health
+Repeated requests have been made to resolve the doctor issue. Complaint reference 98.,Health
+People in the locality are concerned about medicine. Complaint reference 99.,Health
+Residents reported a medicine issue near the central market. Complaint reference 100.,Health
+Residents reported a clinic issue near the central market. Complaint reference 101.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 102.,Health
+The local authority should inspect the Hospital immediately. Complaint reference 103.,Health
+Repeated requests have been made to resolve the clinic issue. Complaint reference 104.,Health
+Multiple complaints received regarding medicine this week. Complaint reference 105.,Health
+A serious problem related to health center has been observed. Complaint reference 106.,Health
+Citizens complained about dengue causing inconvenience. Complaint reference 107.,Health
+People in the locality are concerned about doctor. Complaint reference 108.,Health
+A serious problem related to health center has been observed. Complaint reference 109.,Health
+Public safety is affected due to health center. Complaint reference 110.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 111.,Health
+Public safety is affected due to clinic. Complaint reference 112.,Health
+Public safety is affected due to sanitation. Complaint reference 113.,Health
+The condition of medical waste has worsened over the last month. Complaint reference 114.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 115.,Health
+Public safety is affected due to Hospital. Complaint reference 116.,Health
+Urgent attention required for sanitation in the residential area. Complaint reference 117.,Health
+A serious problem related to medicine has been observed. Complaint reference 118.,Health
+Repeated requests have been made to resolve the medicine issue. Complaint reference 119.,Health
+Citizens complained about health center causing inconvenience. Complaint reference 120.,Health
+Citizens complained about medical waste causing inconvenience. Complaint reference 121.,Health
+The condition of vaccination has worsened over the last month. Complaint reference 122.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 123.,Health
+Repeated requests have been made to resolve the health center issue. Complaint reference 124.,Health
+Residents reported a clinic issue near the central market. Complaint reference 125.,Health
+Residents reported a dengue issue near the central market. Complaint reference 126.,Health
+A serious problem related to clinic has been observed. Complaint reference 127.,Health
+Public safety is affected due to ambulance. Complaint reference 128.,Health
+The condition of health center has worsened over the last month. Complaint reference 129.,Health
+Public safety is affected due to medicine. Complaint reference 130.,Health
+Citizens complained about Hospital causing inconvenience. Complaint reference 131.,Health
+Residents reported a medical waste issue near the central market. Complaint reference 132.,Health
+Multiple complaints received regarding medical waste this week. Complaint reference 133.,Health
+Multiple complaints received regarding health center this week. Complaint reference 134.,Health
+Repeated requests have been made to resolve the medical waste issue. Complaint reference 135.,Health
+Citizens complained about health center causing inconvenience. Complaint reference 136.,Health
+Multiple complaints received regarding medicine this week. Complaint reference 137.,Health
+Residents reported a medicine issue near the central market. Complaint reference 138.,Health
+Repeated requests have been made to resolve the doctor issue. Complaint reference 139.,Health
+The local authority should inspect the Hospital immediately. Complaint reference 140.,Health
+Residents reported a Hospital issue near the central market. Complaint reference 141.,Health
+The condition of doctor has worsened over the last month. Complaint reference 142.,Health
+Repeated requests have been made to resolve the dengue issue. Complaint reference 143.,Health
+Residents reported a ambulance issue near the central market. Complaint reference 144.,Health
+Urgent attention required for dengue in the residential area. Complaint reference 145.,Health
+Urgent attention required for ambulance in the residential area. Complaint reference 146.,Health
+Urgent attention required for doctor in the residential area. Complaint reference 147.,Health
+Public safety is affected due to medicine. Complaint reference 148.,Health
+People in the locality are concerned about clinic. Complaint reference 149.,Health
+People in the locality are concerned about medicine. Complaint reference 150.,Health
+Residents reported a doctor issue near the central market. Complaint reference 151.,Health
+Urgent attention required for doctor in the residential area. Complaint reference 152.,Health
+People in the locality are concerned about medical waste. Complaint reference 153.,Health
+Repeated requests have been made to resolve the doctor issue. Complaint reference 154.,Health
+Multiple complaints received regarding sanitation this week. Complaint reference 155.,Health
+The local authority should inspect the medicine immediately. Complaint reference 156.,Health
+Multiple complaints received regarding medicine this week. Complaint reference 157.,Health
+Citizens complained about medical waste causing inconvenience. Complaint reference 158.,Health
+The condition of vaccination has worsened over the last month. Complaint reference 159.,Health
+Urgent attention required for sanitation in the residential area. Complaint reference 160.,Health
+The condition of Hospital has worsened over the last month. Complaint reference 161.,Health
+People in the locality are concerned about doctor. Complaint reference 162.,Health
+Urgent attention required for clinic in the residential area. Complaint reference 163.,Health
+A serious problem related to dengue has been observed. Complaint reference 164.,Health
+Multiple complaints received regarding dengue this week. Complaint reference 165.,Health
+The local authority should inspect the ambulance immediately. Complaint reference 166.,Health
+A serious problem related to clinic has been observed. Complaint reference 167.,Health
+Multiple complaints received regarding sanitation this week. Complaint reference 168.,Health
+The condition of ambulance has worsened over the last month. Complaint reference 169.,Health
+Multiple complaints received regarding dengue this week. Complaint reference 170.,Health
+Repeated requests have been made to resolve the doctor issue. Complaint reference 171.,Health
+Repeated requests have been made to resolve the Hospital issue. Complaint reference 172.,Health
+Urgent attention required for vaccination in the residential area. Complaint reference 173.,Health
+Multiple complaints received regarding ambulance this week. Complaint reference 174.,Health
+Urgent attention required for clinic in the residential area. Complaint reference 175.,Health
+Citizens complained about dengue causing inconvenience. Complaint reference 176.,Health
+Multiple complaints received regarding vaccination this week. Complaint reference 177.,Health
+A serious problem related to doctor has been observed. Complaint reference 178.,Health
+A serious problem related to sanitation has been observed. Complaint reference 179.,Health
+Repeated requests have been made to resolve the vaccination issue. Complaint reference 180.,Health
+Multiple complaints received regarding health center this week. Complaint reference 181.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 182.,Health
+Multiple complaints received regarding medical waste this week. Complaint reference 183.,Health
+Residents reported a Hospital issue near the central market. Complaint reference 184.,Health
+Citizens complained about sanitation causing inconvenience. Complaint reference 185.,Health
+Citizens complained about vaccination causing inconvenience. Complaint reference 186.,Health
+Repeated requests have been made to resolve the health center issue. Complaint reference 187.,Health
+Repeated requests have been made to resolve the medical waste issue. Complaint reference 188.,Health
+Urgent attention required for Hospital in the residential area. Complaint reference 189.,Health
+Citizens complained about clinic causing inconvenience. Complaint reference 190.,Health
+Residents reported a dengue issue near the central market. Complaint reference 191.,Health
+People in the locality are concerned about sanitation. Complaint reference 192.,Health
+Citizens complained about dengue causing inconvenience. Complaint reference 193.,Health
+Citizens complained about medical waste causing inconvenience. Complaint reference 194.,Health
+Multiple complaints received regarding Hospital this week. Complaint reference 195.,Health
+Residents reported a sanitation issue near the central market. Complaint reference 196.,Health
+A serious problem related to sanitation has been observed. Complaint reference 197.,Health
+Urgent attention required for medicine in the residential area. Complaint reference 198.,Health
+Repeated requests have been made to resolve the sanitation issue. Complaint reference 199.,Health
+People in the locality are concerned about medical waste. Complaint reference 200.,Health
+A serious problem related to guard has been observed. Complaint reference 1.,Safety
+Citizens complained about guard causing inconvenience. Complaint reference 2.,Safety
+Residents reported a handrail issue near the central market. Complaint reference 3.,Safety
+The local authority should inspect the guard immediately. Complaint reference 4.,Safety
+A serious problem related to handrail has been observed. Complaint reference 5.,Safety
+Citizens complained about helmet causing inconvenience. Complaint reference 6.,Safety
+Public safety is affected due to security camera. Complaint reference 7.,Safety
+The condition of fire exit has worsened over the last month. Complaint reference 8.,Safety
+A serious problem related to alarm has been observed. Complaint reference 9.,Safety
+The local authority should inspect the elevator immediately. Complaint reference 10.,Safety
+A serious problem related to helmet has been observed. Complaint reference 11.,Safety
+Residents reported a alarm issue near the central market. Complaint reference 12.,Safety
+Public safety is affected due to alarm. Complaint reference 13.,Safety
+Multiple complaints received regarding gas leak this week. Complaint reference 14.,Safety
+Multiple complaints received regarding security camera this week. Complaint reference 15.,Safety
+Repeated requests have been made to resolve the gas leak issue. Complaint reference 16.,Safety
+Repeated requests have been made to resolve the handrail issue. Complaint reference 17.,Safety
+Residents reported a gas leak issue near the central market. Complaint reference 18.,Safety
+Multiple complaints received regarding security camera this week. Complaint reference 19.,Safety
+People in the locality are concerned about guard. Complaint reference 20.,Safety
+Residents reported a helmet issue near the central market. Complaint reference 21.,Safety
+People in the locality are concerned about security camera. Complaint reference 22.,Safety
+The local authority should inspect the handrail immediately. Complaint reference 23.,Safety
+Public safety is affected due to gas leak. Complaint reference 24.,Safety
+Repeated requests have been made to resolve the warning sign issue. Complaint reference 25.,Safety
+Public safety is affected due to security camera. Complaint reference 26.,Safety
+A serious problem related to warning sign has been observed. Complaint reference 27.,Safety
+Residents reported a helmet issue near the central market. Complaint reference 28.,Safety
+Residents reported a handrail issue near the central market. Complaint reference 29.,Safety
+Repeated requests have been made to resolve the playground issue. Complaint reference 30.,Safety
+The local authority should inspect the alarm immediately. Complaint reference 31.,Safety
+Urgent attention required for handrail in the residential area. Complaint reference 32.,Safety
+People in the locality are concerned about gas leak. Complaint reference 33.,Safety
+Urgent attention required for gas leak in the residential area. Complaint reference 34.,Safety
+Repeated requests have been made to resolve the helmet issue. Complaint reference 35.,Safety
+Public safety is affected due to helmet. Complaint reference 36.,Safety
+Public safety is affected due to gas leak. Complaint reference 37.,Safety
+Repeated requests have been made to resolve the helmet issue. Complaint reference 38.,Safety
+A serious problem related to guard has been observed. Complaint reference 39.,Safety
+Public safety is affected due to handrail. Complaint reference 40.,Safety
+People in the locality are concerned about guard. Complaint reference 41.,Safety
+Multiple complaints received regarding warning sign this week. Complaint reference 42.,Safety
+Repeated requests have been made to resolve the handrail issue. Complaint reference 43.,Safety
+Multiple complaints received regarding fire exit this week. Complaint reference 44.,Safety
+A serious problem related to helmet has been observed. Complaint reference 45.,Safety
+People in the locality are concerned about handrail. Complaint reference 46.,Safety
+The local authority should inspect the warning sign immediately. Complaint reference 47.,Safety
+The condition of elevator has worsened over the last month. Complaint reference 48.,Safety
+A serious problem related to elevator has been observed. Complaint reference 49.,Safety
+The condition of playground has worsened over the last month. Complaint reference 50.,Safety
+Urgent attention required for guard in the residential area. Complaint reference 51.,Safety
+Repeated requests have been made to resolve the helmet issue. Complaint reference 52.,Safety
+The local authority should inspect the warning sign immediately. Complaint reference 53.,Safety
+A serious problem related to security camera has been observed. Complaint reference 54.,Safety
+A serious problem related to helmet has been observed. Complaint reference 55.,Safety
+Citizens complained about alarm causing inconvenience. Complaint reference 56.,Safety
+Residents reported a fire exit issue near the central market. Complaint reference 57.,Safety
+The condition of alarm has worsened over the last month. Complaint reference 58.,Safety
+Urgent attention required for warning sign in the residential area. Complaint reference 59.,Safety
+Public safety is affected due to elevator. Complaint reference 60.,Safety
+A serious problem related to warning sign has been observed. Complaint reference 61.,Safety
+The condition of handrail has worsened over the last month. Complaint reference 62.,Safety
+A serious problem related to handrail has been observed. Complaint reference 63.,Safety
+Residents reported a guard issue near the central market. Complaint reference 64.,Safety
+Public safety is affected due to security camera. Complaint reference 65.,Safety
+Citizens complained about alarm causing inconvenience. Complaint reference 66.,Safety
+The condition of playground has worsened over the last month. Complaint reference 67.,Safety
+Repeated requests have been made to resolve the fire exit issue. Complaint reference 68.,Safety
+Urgent attention required for alarm in the residential area. Complaint reference 69.,Safety
+Citizens complained about elevator causing inconvenience. Complaint reference 70.,Safety
+Repeated requests have been made to resolve the elevator issue. Complaint reference 71.,Safety
+People in the locality are concerned about playground. Complaint reference 72.,Safety
+The condition of gas leak has worsened over the last month. Complaint reference 73.,Safety
+Repeated requests have been made to resolve the warning sign issue. Complaint reference 74.,Safety
+Repeated requests have been made to resolve the handrail issue. Complaint reference 75.,Safety
+Citizens complained about elevator causing inconvenience. Complaint reference 76.,Safety
+The condition of elevator has worsened over the last month. Complaint reference 77.,Safety
+A serious problem related to helmet has been observed. Complaint reference 78.,Safety
+Repeated requests have been made to resolve the helmet issue. Complaint reference 79.,Safety
+A serious problem related to elevator has been observed. Complaint reference 80.,Safety
+The condition of helmet has worsened over the last month. Complaint reference 81.,Safety
+Multiple complaints received regarding security camera this week. Complaint reference 82.,Safety
+Multiple complaints received regarding alarm this week. Complaint reference 83.,Safety
+The local authority should inspect the gas leak immediately. Complaint reference 84.,Safety
+Urgent attention required for playground in the residential area. Complaint reference 85.,Safety
+Citizens complained about guard causing inconvenience. Complaint reference 86.,Safety
+Public safety is affected due to alarm. Complaint reference 87.,Safety
+A serious problem related to guard has been observed. Complaint reference 88.,Safety
+Public safety is affected due to security camera. Complaint reference 89.,Safety
+The local authority should inspect the handrail immediately. Complaint reference 90.,Safety
+The condition of playground has worsened over the last month. Complaint reference 91.,Safety
+Residents reported a handrail issue near the central market. Complaint reference 92.,Safety
+Public safety is affected due to alarm. Complaint reference 93.,Safety
+People in the locality are concerned about handrail. Complaint reference 94.,Safety
+People in the locality are concerned about fire exit. Complaint reference 95.,Safety
+The condition of handrail has worsened over the last month. Complaint reference 96.,Safety
+The local authority should inspect the fire exit immediately. Complaint reference 97.,Safety
+Public safety is affected due to helmet. Complaint reference 98.,Safety
+Repeated requests have been made to resolve the handrail issue. Complaint reference 99.,Safety
+People in the locality are concerned about playground. Complaint reference 100.,Safety
+The condition of alarm has worsened over the last month. Complaint reference 101.,Safety
+Multiple complaints received regarding alarm this week. Complaint reference 102.,Safety
+The condition of handrail has worsened over the last month. Complaint reference 103.,Safety
+Public safety is affected due to fire exit. Complaint reference 104.,Safety
+Public safety is affected due to gas leak. Complaint reference 105.,Safety
+The condition of guard has worsened over the last month. Complaint reference 106.,Safety
+People in the locality are concerned about guard. Complaint reference 107.,Safety
+Residents reported a playground issue near the central market. Complaint reference 108.,Safety
+People in the locality are concerned about handrail. Complaint reference 109.,Safety
+Residents reported a warning sign issue near the central market. Complaint reference 110.,Safety
+Public safety is affected due to security camera. Complaint reference 111.,Safety
+The condition of guard has worsened over the last month. Complaint reference 112.,Safety
+Residents reported a guard issue near the central market. Complaint reference 113.,Safety
+Public safety is affected due to helmet. Complaint reference 114.,Safety
+A serious problem related to gas leak has been observed. Complaint reference 115.,Safety
+The local authority should inspect the elevator immediately. Complaint reference 116.,Safety
+Public safety is affected due to gas leak. Complaint reference 117.,Safety
+Public safety is affected due to helmet. Complaint reference 118.,Safety
+Urgent attention required for helmet in the residential area. Complaint reference 119.,Safety
+Residents reported a elevator issue near the central market. Complaint reference 120.,Safety
+Residents reported a playground issue near the central market. Complaint reference 121.,Safety
+A serious problem related to gas leak has been observed. Complaint reference 122.,Safety
+Residents reported a security camera issue near the central market. Complaint reference 123.,Safety
+A serious problem related to fire exit has been observed. Complaint reference 124.,Safety
+Residents reported a alarm issue near the central market. Complaint reference 125.,Safety
+Citizens complained about warning sign causing inconvenience. Complaint reference 126.,Safety
+Citizens complained about alarm causing inconvenience. Complaint reference 127.,Safety
+Urgent attention required for elevator in the residential area. Complaint reference 128.,Safety
+A serious problem related to warning sign has been observed. Complaint reference 129.,Safety
+Multiple complaints received regarding elevator this week. Complaint reference 130.,Safety
+Citizens complained about gas leak causing inconvenience. Complaint reference 131.,Safety
+People in the locality are concerned about warning sign. Complaint reference 132.,Safety
+Citizens complained about security camera causing inconvenience. Complaint reference 133.,Safety
+Urgent attention required for helmet in the residential area. Complaint reference 134.,Safety
+Residents reported a warning sign issue near the central market. Complaint reference 135.,Safety
+People in the locality are concerned about helmet. Complaint reference 136.,Safety
+Public safety is affected due to handrail. Complaint reference 137.,Safety
+Urgent attention required for alarm in the residential area. Complaint reference 138.,Safety
+A serious problem related to warning sign has been observed. Complaint reference 139.,Safety
+Multiple complaints received regarding security camera this week. Complaint reference 140.,Safety
+Urgent attention required for warning sign in the residential area. Complaint reference 141.,Safety
+Residents reported a warning sign issue near the central market. Complaint reference 142.,Safety
+Repeated requests have been made to resolve the gas leak issue. Complaint reference 143.,Safety
+The local authority should inspect the handrail immediately. Complaint reference 144.,Safety
+Repeated requests have been made to resolve the security camera issue. Complaint reference 145.,Safety
+Residents reported a gas leak issue near the central market. Complaint reference 146.,Safety
+The condition of handrail has worsened over the last month. Complaint reference 147.,Safety
+Public safety is affected due to security camera. Complaint reference 148.,Safety
+The condition of gas leak has worsened over the last month. Complaint reference 149.,Safety
+Public safety is affected due to guard. Complaint reference 150.,Safety
+Repeated requests have been made to resolve the guard issue. Complaint reference 151.,Safety
+People in the locality are concerned about helmet. Complaint reference 152.,Safety
+The condition of playground has worsened over the last month. Complaint reference 153.,Safety
+Public safety is affected due to elevator. Complaint reference 154.,Safety
+Multiple complaints received regarding warning sign this week. Complaint reference 155.,Safety
+A serious problem related to gas leak has been observed. Complaint reference 156.,Safety
+Multiple complaints received regarding security camera this week. Complaint reference 157.,Safety
+A serious problem related to elevator has been observed. Complaint reference 158.,Safety
+People in the locality are concerned about elevator. Complaint reference 159.,Safety
+Public safety is affected due to warning sign. Complaint reference 160.,Safety
+Residents reported a gas leak issue near the central market. Complaint reference 161.,Safety
+The local authority should inspect the elevator immediately. Complaint reference 162.,Safety
+The condition of guard has worsened over the last month. Complaint reference 163.,Safety
+The local authority should inspect the alarm immediately. Complaint reference 164.,Safety
+The local authority should inspect the helmet immediately. Complaint reference 165.,Safety
+People in the locality are concerned about helmet. Complaint reference 166.,Safety
+Repeated requests have been made to resolve the helmet issue. Complaint reference 167.,Safety
+Repeated requests have been made to resolve the fire exit issue. Complaint reference 168.,Safety
+Urgent attention required for alarm in the residential area. Complaint reference 169.,Safety
+Public safety is affected due to alarm. Complaint reference 170.,Safety
+Repeated requests have been made to resolve the elevator issue. Complaint reference 171.,Safety
+The condition of alarm has worsened over the last month. Complaint reference 172.,Safety
+The condition of elevator has worsened over the last month. Complaint reference 173.,Safety
+Urgent attention required for fire exit in the residential area. Complaint reference 174.,Safety
+A serious problem related to helmet has been observed. Complaint reference 175.,Safety
+A serious problem related to handrail has been observed. Complaint reference 176.,Safety
+People in the locality are concerned about helmet. Complaint reference 177.,Safety
+The condition of gas leak has worsened over the last month. Complaint reference 178.,Safety
+Repeated requests have been made to resolve the playground issue. Complaint reference 179.,Safety
+Public safety is affected due to gas leak. Complaint reference 180.,Safety
+The local authority should inspect the playground immediately. Complaint reference 181.,Safety
+The condition of gas leak has worsened over the last month. Complaint reference 182.,Safety
+Multiple complaints received regarding helmet this week. Complaint reference 183.,Safety
+A serious problem related to helmet has been observed. Complaint reference 184.,Safety
+A serious problem related to security camera has been observed. Complaint reference 185.,Safety
+Urgent attention required for gas leak in the residential area. Complaint reference 186.,Safety
+Citizens complained about playground causing inconvenience. Complaint reference 187.,Safety
+A serious problem related to alarm has been observed. Complaint reference 188.,Safety
+Multiple complaints received regarding elevator this week. Complaint reference 189.,Safety
+Repeated requests have been made to resolve the warning sign issue. Complaint reference 190.,Safety
+Multiple complaints received regarding warning sign this week. Complaint reference 191.,Safety
+A serious problem related to security camera has been observed. Complaint reference 192.,Safety
+A serious problem related to helmet has been observed. Complaint reference 193.,Safety
+Citizens complained about gas leak causing inconvenience. Complaint reference 194.,Safety
+Residents reported a helmet issue near the central market. Complaint reference 195.,Safety
+Citizens complained about playground causing inconvenience. Complaint reference 196.,Safety
+Residents reported a helmet issue near the central market. Complaint reference 197.,Safety
+Repeated requests have been made to resolve the fire exit issue. Complaint reference 198.,Safety
+Citizens complained about helmet causing inconvenience. Complaint reference 199.,Safety
+Urgent attention required for elevator in the residential area. Complaint reference 200.,Safety
+People in the locality are concerned about bus. Complaint reference 1.,Transport
+The condition of ticket has worsened over the last month. Complaint reference 2.,Transport
+The condition of ferry has worsened over the last month. Complaint reference 3.,Transport
+Citizens complained about station causing inconvenience. Complaint reference 4.,Transport
+Multiple complaints received regarding bus this week. Complaint reference 5.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 6.,Transport
+Public safety is affected due to metro. Complaint reference 7.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 8.,Transport
+Residents reported a traffic issue near the central market. Complaint reference 9.,Transport
+Citizens complained about train causing inconvenience. Complaint reference 10.,Transport
+Multiple complaints received regarding traffic this week. Complaint reference 11.,Transport
+A serious problem related to metro has been observed. Complaint reference 12.,Transport
+Repeated requests have been made to resolve the metro issue. Complaint reference 13.,Transport
+People in the locality are concerned about airport. Complaint reference 14.,Transport
+People in the locality are concerned about traffic. Complaint reference 15.,Transport
+Repeated requests have been made to resolve the taxi issue. Complaint reference 16.,Transport
+The condition of airport has worsened over the last month. Complaint reference 17.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 18.,Transport
+Public safety is affected due to traffic. Complaint reference 19.,Transport
+People in the locality are concerned about ticket. Complaint reference 20.,Transport
+Residents reported a traffic issue near the central market. Complaint reference 21.,Transport
+Urgent attention required for traffic in the residential area. Complaint reference 22.,Transport
+A serious problem related to taxi has been observed. Complaint reference 23.,Transport
+Urgent attention required for ticket in the residential area. Complaint reference 24.,Transport
+A serious problem related to train has been observed. Complaint reference 25.,Transport
+Repeated requests have been made to resolve the train issue. Complaint reference 26.,Transport
+Citizens complained about metro causing inconvenience. Complaint reference 27.,Transport
+Public safety is affected due to bus. Complaint reference 28.,Transport
+People in the locality are concerned about ferry. Complaint reference 29.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 30.,Transport
+A serious problem related to bus has been observed. Complaint reference 31.,Transport
+Multiple complaints received regarding ticket this week. Complaint reference 32.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 33.,Transport
+Multiple complaints received regarding taxi this week. Complaint reference 34.,Transport
+A serious problem related to traffic has been observed. Complaint reference 35.,Transport
+Urgent attention required for airport in the residential area. Complaint reference 36.,Transport
+A serious problem related to schedule has been observed. Complaint reference 37.,Transport
+Multiple complaints received regarding train this week. Complaint reference 38.,Transport
+Urgent attention required for train in the residential area. Complaint reference 39.,Transport
+Citizens complained about bus causing inconvenience. Complaint reference 40.,Transport
+People in the locality are concerned about ticket. Complaint reference 41.,Transport
+Multiple complaints received regarding traffic this week. Complaint reference 42.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 43.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 44.,Transport
+Multiple complaints received regarding airport this week. Complaint reference 45.,Transport
+Repeated requests have been made to resolve the schedule issue. Complaint reference 46.,Transport
+The condition of ferry has worsened over the last month. Complaint reference 47.,Transport
+People in the locality are concerned about metro. Complaint reference 48.,Transport
+Public safety is affected due to bus. Complaint reference 49.,Transport
+People in the locality are concerned about station. Complaint reference 50.,Transport
+Residents reported a ticket issue near the central market. Complaint reference 51.,Transport
+A serious problem related to metro has been observed. Complaint reference 52.,Transport
+People in the locality are concerned about traffic. Complaint reference 53.,Transport
+Multiple complaints received regarding bus this week. Complaint reference 54.,Transport
+Residents reported a traffic issue near the central market. Complaint reference 55.,Transport
+The condition of train has worsened over the last month. Complaint reference 56.,Transport
+The condition of schedule has worsened over the last month. Complaint reference 57.,Transport
+Citizens complained about ticket causing inconvenience. Complaint reference 58.,Transport
+Public safety is affected due to traffic. Complaint reference 59.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 60.,Transport
+The local authority should inspect the ferry immediately. Complaint reference 61.,Transport
+The local authority should inspect the airport immediately. Complaint reference 62.,Transport
+Urgent attention required for station in the residential area. Complaint reference 63.,Transport
+The local authority should inspect the train immediately. Complaint reference 64.,Transport
+The condition of airport has worsened over the last month. Complaint reference 65.,Transport
+Public safety is affected due to ticket. Complaint reference 66.,Transport
+Residents reported a schedule issue near the central market. Complaint reference 67.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 68.,Transport
+Multiple complaints received regarding station this week. Complaint reference 69.,Transport
+Urgent attention required for station in the residential area. Complaint reference 70.,Transport
+Repeated requests have been made to resolve the airport issue. Complaint reference 71.,Transport
+Repeated requests have been made to resolve the bus issue. Complaint reference 72.,Transport
+Public safety is affected due to ferry. Complaint reference 73.,Transport
+A serious problem related to bus has been observed. Complaint reference 74.,Transport
+The local authority should inspect the schedule immediately. Complaint reference 75.,Transport
+The condition of traffic has worsened over the last month. Complaint reference 76.,Transport
+Residents reported a ferry issue near the central market. Complaint reference 77.,Transport
+Multiple complaints received regarding taxi this week. Complaint reference 78.,Transport
+Citizens complained about schedule causing inconvenience. Complaint reference 79.,Transport
+The condition of ticket has worsened over the last month. Complaint reference 80.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 81.,Transport
+People in the locality are concerned about bus. Complaint reference 82.,Transport
+Citizens complained about taxi causing inconvenience. Complaint reference 83.,Transport
+Repeated requests have been made to resolve the ticket issue. Complaint reference 84.,Transport
+Repeated requests have been made to resolve the bus issue. Complaint reference 85.,Transport
+Urgent attention required for airport in the residential area. Complaint reference 86.,Transport
+Urgent attention required for taxi in the residential area. Complaint reference 87.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 88.,Transport
+The condition of train has worsened over the last month. Complaint reference 89.,Transport
+Repeated requests have been made to resolve the ticket issue. Complaint reference 90.,Transport
+Public safety is affected due to ticket. Complaint reference 91.,Transport
+The condition of ferry has worsened over the last month. Complaint reference 92.,Transport
+The condition of taxi has worsened over the last month. Complaint reference 93.,Transport
+Citizens complained about schedule causing inconvenience. Complaint reference 94.,Transport
+A serious problem related to airport has been observed. Complaint reference 95.,Transport
+Repeated requests have been made to resolve the traffic issue. Complaint reference 96.,Transport
+Urgent attention required for train in the residential area. Complaint reference 97.,Transport
+Public safety is affected due to ticket. Complaint reference 98.,Transport
+Repeated requests have been made to resolve the station issue. Complaint reference 99.,Transport
+Residents reported a ticket issue near the central market. Complaint reference 100.,Transport
+Multiple complaints received regarding ticket this week. Complaint reference 101.,Transport
+People in the locality are concerned about traffic. Complaint reference 102.,Transport
+Citizens complained about ferry causing inconvenience. Complaint reference 103.,Transport
+Repeated requests have been made to resolve the ferry issue. Complaint reference 104.,Transport
+The local authority should inspect the ferry immediately. Complaint reference 105.,Transport
+Repeated requests have been made to resolve the station issue. Complaint reference 106.,Transport
+Public safety is affected due to schedule. Complaint reference 107.,Transport
+The local authority should inspect the ferry immediately. Complaint reference 108.,Transport
+A serious problem related to taxi has been observed. Complaint reference 109.,Transport
+Public safety is affected due to traffic. Complaint reference 110.,Transport
+Public safety is affected due to taxi. Complaint reference 111.,Transport
+The local authority should inspect the bus immediately. Complaint reference 112.,Transport
+Public safety is affected due to ferry. Complaint reference 113.,Transport
+Citizens complained about airport causing inconvenience. Complaint reference 114.,Transport
+Residents reported a ferry issue near the central market. Complaint reference 115.,Transport
+Repeated requests have been made to resolve the train issue. Complaint reference 116.,Transport
+The local authority should inspect the traffic immediately. Complaint reference 117.,Transport
+The condition of metro has worsened over the last month. Complaint reference 118.,Transport
+Repeated requests have been made to resolve the metro issue. Complaint reference 119.,Transport
+Residents reported a ferry issue near the central market. Complaint reference 120.,Transport
+Public safety is affected due to train. Complaint reference 121.,Transport
+Urgent attention required for train in the residential area. Complaint reference 122.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 123.,Transport
+People in the locality are concerned about station. Complaint reference 124.,Transport
+Urgent attention required for airport in the residential area. Complaint reference 125.,Transport
+Repeated requests have been made to resolve the station issue. Complaint reference 126.,Transport
+The local authority should inspect the airport immediately. Complaint reference 127.,Transport
+Repeated requests have been made to resolve the ferry issue. Complaint reference 128.,Transport
+People in the locality are concerned about bus. Complaint reference 129.,Transport
+A serious problem related to metro has been observed. Complaint reference 130.,Transport
+A serious problem related to ticket has been observed. Complaint reference 131.,Transport
+Public safety is affected due to metro. Complaint reference 132.,Transport
+Urgent attention required for metro in the residential area. Complaint reference 133.,Transport
+Citizens complained about ferry causing inconvenience. Complaint reference 134.,Transport
+Residents reported a ticket issue near the central market. Complaint reference 135.,Transport
+The local authority should inspect the bus immediately. Complaint reference 136.,Transport
+Multiple complaints received regarding bus this week. Complaint reference 137.,Transport
+The local authority should inspect the station immediately. Complaint reference 138.,Transport
+Citizens complained about airport causing inconvenience. Complaint reference 139.,Transport
+Repeated requests have been made to resolve the taxi issue. Complaint reference 140.,Transport
+People in the locality are concerned about airport. Complaint reference 141.,Transport
+Citizens complained about train causing inconvenience. Complaint reference 142.,Transport
+Urgent attention required for train in the residential area. Complaint reference 143.,Transport
+Public safety is affected due to traffic. Complaint reference 144.,Transport
+A serious problem related to traffic has been observed. Complaint reference 145.,Transport
+People in the locality are concerned about ferry. Complaint reference 146.,Transport
+A serious problem related to train has been observed. Complaint reference 147.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 148.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 149.,Transport
+The condition of bus has worsened over the last month. Complaint reference 150.,Transport
+Repeated requests have been made to resolve the ticket issue. Complaint reference 151.,Transport
+Urgent attention required for train in the residential area. Complaint reference 152.,Transport
+The local authority should inspect the ferry immediately. Complaint reference 153.,Transport
+Multiple complaints received regarding traffic this week. Complaint reference 154.,Transport
+Multiple complaints received regarding airport this week. Complaint reference 155.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 156.,Transport
+Public safety is affected due to taxi. Complaint reference 157.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 158.,Transport
+Public safety is affected due to taxi. Complaint reference 159.,Transport
+The local authority should inspect the traffic immediately. Complaint reference 160.,Transport
+Multiple complaints received regarding traffic this week. Complaint reference 161.,Transport
+Residents reported a ticket issue near the central market. Complaint reference 162.,Transport
+Multiple complaints received regarding airport this week. Complaint reference 163.,Transport
+People in the locality are concerned about bus. Complaint reference 164.,Transport
+People in the locality are concerned about bus. Complaint reference 165.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 166.,Transport
+People in the locality are concerned about taxi. Complaint reference 167.,Transport
+A serious problem related to station has been observed. Complaint reference 168.,Transport
+People in the locality are concerned about taxi. Complaint reference 169.,Transport
+Citizens complained about ticket causing inconvenience. Complaint reference 170.,Transport
+Residents reported a metro issue near the central market. Complaint reference 171.,Transport
+The condition of ticket has worsened over the last month. Complaint reference 172.,Transport
+People in the locality are concerned about bus. Complaint reference 173.,Transport
+Citizens complained about station causing inconvenience. Complaint reference 174.,Transport
+Multiple complaints received regarding metro this week. Complaint reference 175.,Transport
+Public safety is affected due to station. Complaint reference 176.,Transport
+A serious problem related to train has been observed. Complaint reference 177.,Transport
+Repeated requests have been made to resolve the train issue. Complaint reference 178.,Transport
+Repeated requests have been made to resolve the station issue. Complaint reference 179.,Transport
+Multiple complaints received regarding schedule this week. Complaint reference 180.,Transport
+Multiple complaints received regarding train this week. Complaint reference 181.,Transport
+Multiple complaints received regarding ferry this week. Complaint reference 182.,Transport
+Urgent attention required for station in the residential area. Complaint reference 183.,Transport
+Urgent attention required for ferry in the residential area. Complaint reference 184.,Transport
+A serious problem related to train has been observed. Complaint reference 185.,Transport
+Repeated requests have been made to resolve the airport issue. Complaint reference 186.,Transport
+Urgent attention required for station in the residential area. Complaint reference 187.,Transport
+Residents reported a airport issue near the central market. Complaint reference 188.,Transport
+Repeated requests have been made to resolve the ticket issue. Complaint reference 189.,Transport
+The condition of metro has worsened over the last month. Complaint reference 190.,Transport
+Multiple complaints received regarding station this week. Complaint reference 191.,Transport
+Public safety is affected due to traffic. Complaint reference 192.,Transport
+Urgent attention required for station in the residential area. Complaint reference 193.,Transport
+The condition of taxi has worsened over the last month. Complaint reference 194.,Transport
+People in the locality are concerned about bus. Complaint reference 195.,Transport
+The local authority should inspect the schedule immediately. Complaint reference 196.,Transport
+A serious problem related to traffic has been observed. Complaint reference 197.,Transport
+The condition of metro has worsened over the last month. Complaint reference 198.,Transport
+Public safety is affected due to ticket. Complaint reference 199.,Transport
+Citizens complained about metro causing inconvenience. Complaint reference 200.,Transport
+Residents reported a pothole issue near the central market. Complaint reference 1.,Roads
+The condition of sidewalk has worsened over the last month. Complaint reference 2.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 3.,Roads
+Repeated requests have been made to resolve the street issue. Complaint reference 4.,Roads
+Public safety is affected due to highway. Complaint reference 5.,Roads
+The local authority should inspect the pavement immediately. Complaint reference 6.,Roads
+Public safety is affected due to crossroad. Complaint reference 7.,Roads
+Citizens complained about bridge causing inconvenience. Complaint reference 8.,Roads
+Urgent attention required for junction in the residential area. Complaint reference 9.,Roads
+People in the locality are concerned about pavement. Complaint reference 10.,Roads
+Multiple complaints received regarding junction this week. Complaint reference 11.,Roads
+The local authority should inspect the pothole immediately. Complaint reference 12.,Roads
+The condition of street has worsened over the last month. Complaint reference 13.,Roads
+A serious problem related to pavement has been observed. Complaint reference 14.,Roads
+Urgent attention required for road marking in the residential area. Complaint reference 15.,Roads
+Repeated requests have been made to resolve the road marking issue. Complaint reference 16.,Roads
+Residents reported a road marking issue near the central market. Complaint reference 17.,Roads
+Multiple complaints received regarding junction this week. Complaint reference 18.,Roads
+Urgent attention required for street in the residential area. Complaint reference 19.,Roads
+Urgent attention required for pavement in the residential area. Complaint reference 20.,Roads
+People in the locality are concerned about street. Complaint reference 21.,Roads
+Residents reported a pothole issue near the central market. Complaint reference 22.,Roads
+A serious problem related to road marking has been observed. Complaint reference 23.,Roads
+People in the locality are concerned about highway. Complaint reference 24.,Roads
+Urgent attention required for street in the residential area. Complaint reference 25.,Roads
+A serious problem related to crossroad has been observed. Complaint reference 26.,Roads
+A serious problem related to bridge has been observed. Complaint reference 27.,Roads
+The local authority should inspect the street immediately. Complaint reference 28.,Roads
+People in the locality are concerned about highway. Complaint reference 29.,Roads
+Multiple complaints received regarding pothole this week. Complaint reference 30.,Roads
+Citizens complained about highway causing inconvenience. Complaint reference 31.,Roads
+Multiple complaints received regarding crossroad this week. Complaint reference 32.,Roads
+Urgent attention required for highway in the residential area. Complaint reference 33.,Roads
+Citizens complained about pothole causing inconvenience. Complaint reference 34.,Roads
+The local authority should inspect the pothole immediately. Complaint reference 35.,Roads
+People in the locality are concerned about street. Complaint reference 36.,Roads
+Residents reported a road marking issue near the central market. Complaint reference 37.,Roads
+Multiple complaints received regarding highway this week. Complaint reference 38.,Roads
+Citizens complained about pothole causing inconvenience. Complaint reference 39.,Roads
+Repeated requests have been made to resolve the junction issue. Complaint reference 40.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 41.,Roads
+The condition of pavement has worsened over the last month. Complaint reference 42.,Roads
+Repeated requests have been made to resolve the road marking issue. Complaint reference 43.,Roads
+Urgent attention required for bridge in the residential area. Complaint reference 44.,Roads
+Repeated requests have been made to resolve the pavement issue. Complaint reference 45.,Roads
+People in the locality are concerned about street. Complaint reference 46.,Roads
+Repeated requests have been made to resolve the pothole issue. Complaint reference 47.,Roads
+The condition of sidewalk has worsened over the last month. Complaint reference 48.,Roads
+Residents reported a pothole issue near the central market. Complaint reference 49.,Roads
+Public safety is affected due to pavement. Complaint reference 50.,Roads
+Urgent attention required for junction in the residential area. Complaint reference 51.,Roads
+The condition of pavement has worsened over the last month. Complaint reference 52.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 53.,Roads
+People in the locality are concerned about road marking. Complaint reference 54.,Roads
+Urgent attention required for highway in the residential area. Complaint reference 55.,Roads
+Multiple complaints received regarding highway this week. Complaint reference 56.,Roads
+People in the locality are concerned about bridge. Complaint reference 57.,Roads
+The local authority should inspect the crossroad immediately. Complaint reference 58.,Roads
+People in the locality are concerned about junction. Complaint reference 59.,Roads
+Multiple complaints received regarding crossroad this week. Complaint reference 60.,Roads
+Repeated requests have been made to resolve the pavement issue. Complaint reference 61.,Roads
+Public safety is affected due to bridge. Complaint reference 62.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 63.,Roads
+A serious problem related to crossroad has been observed. Complaint reference 64.,Roads
+The condition of junction has worsened over the last month. Complaint reference 65.,Roads
+Public safety is affected due to street. Complaint reference 66.,Roads
+The condition of road marking has worsened over the last month. Complaint reference 67.,Roads
+Public safety is affected due to junction. Complaint reference 68.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 69.,Roads
+The local authority should inspect the junction immediately. Complaint reference 70.,Roads
+The local authority should inspect the sidewalk immediately. Complaint reference 71.,Roads
+The condition of highway has worsened over the last month. Complaint reference 72.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 73.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 74.,Roads
+Urgent attention required for junction in the residential area. Complaint reference 75.,Roads
+Citizens complained about road marking causing inconvenience. Complaint reference 76.,Roads
+Residents reported a crossroad issue near the central market. Complaint reference 77.,Roads
+Repeated requests have been made to resolve the bridge issue. Complaint reference 78.,Roads
+The local authority should inspect the crossroad immediately. Complaint reference 79.,Roads
+Public safety is affected due to road crack. Complaint reference 80.,Roads
+Public safety is affected due to road marking. Complaint reference 81.,Roads
+Multiple complaints received regarding pothole this week. Complaint reference 82.,Roads
+Multiple complaints received regarding bridge this week. Complaint reference 83.,Roads
+Urgent attention required for road marking in the residential area. Complaint reference 84.,Roads
+Repeated requests have been made to resolve the bridge issue. Complaint reference 85.,Roads
+Citizens complained about street causing inconvenience. Complaint reference 86.,Roads
+A serious problem related to pavement has been observed. Complaint reference 87.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 88.,Roads
+The local authority should inspect the crossroad immediately. Complaint reference 89.,Roads
+Multiple complaints received regarding road crack this week. Complaint reference 90.,Roads
+A serious problem related to bridge has been observed. Complaint reference 91.,Roads
+Repeated requests have been made to resolve the junction issue. Complaint reference 92.,Roads
+People in the locality are concerned about bridge. Complaint reference 93.,Roads
+Residents reported a crossroad issue near the central market. Complaint reference 94.,Roads
+Multiple complaints received regarding bridge this week. Complaint reference 95.,Roads
+Citizens complained about pothole causing inconvenience. Complaint reference 96.,Roads
+Multiple complaints received regarding sidewalk this week. Complaint reference 97.,Roads
+The local authority should inspect the road marking immediately. Complaint reference 98.,Roads
+Citizens complained about pothole causing inconvenience. Complaint reference 99.,Roads
+People in the locality are concerned about highway. Complaint reference 100.,Roads
+Urgent attention required for junction in the residential area. Complaint reference 101.,Roads
+Residents reported a highway issue near the central market. Complaint reference 102.,Roads
+Repeated requests have been made to resolve the road crack issue. Complaint reference 103.,Roads
+Public safety is affected due to street. Complaint reference 104.,Roads
+The condition of junction has worsened over the last month. Complaint reference 105.,Roads
+Citizens complained about road marking causing inconvenience. Complaint reference 106.,Roads
+Multiple complaints received regarding road marking this week. Complaint reference 107.,Roads
+People in the locality are concerned about road marking. Complaint reference 108.,Roads
+Urgent attention required for bridge in the residential area. Complaint reference 109.,Roads
+Citizens complained about pothole causing inconvenience. Complaint reference 110.,Roads
+People in the locality are concerned about highway. Complaint reference 111.,Roads
+Urgent attention required for pothole in the residential area. Complaint reference 112.,Roads
+The condition of sidewalk has worsened over the last month. Complaint reference 113.,Roads
+The condition of junction has worsened over the last month. Complaint reference 114.,Roads
+The condition of bridge has worsened over the last month. Complaint reference 115.,Roads
+Multiple complaints received regarding junction this week. Complaint reference 116.,Roads
+Repeated requests have been made to resolve the street issue. Complaint reference 117.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 118.,Roads
+Urgent attention required for junction in the residential area. Complaint reference 119.,Roads
+People in the locality are concerned about sidewalk. Complaint reference 120.,Roads
+Repeated requests have been made to resolve the pavement issue. Complaint reference 121.,Roads
+Residents reported a sidewalk issue near the central market. Complaint reference 122.,Roads
+Public safety is affected due to street. Complaint reference 123.,Roads
+Residents reported a bridge issue near the central market. Complaint reference 124.,Roads
+A serious problem related to pothole has been observed. Complaint reference 125.,Roads
+A serious problem related to sidewalk has been observed. Complaint reference 126.,Roads
+Multiple complaints received regarding highway this week. Complaint reference 127.,Roads
+The local authority should inspect the sidewalk immediately. Complaint reference 128.,Roads
+Residents reported a road crack issue near the central market. Complaint reference 129.,Roads
+Public safety is affected due to pavement. Complaint reference 130.,Roads
+Citizens complained about highway causing inconvenience. Complaint reference 131.,Roads
+Repeated requests have been made to resolve the junction issue. Complaint reference 132.,Roads
+Repeated requests have been made to resolve the street issue. Complaint reference 133.,Roads
+The local authority should inspect the crossroad immediately. Complaint reference 134.,Roads
+Public safety is affected due to road crack. Complaint reference 135.,Roads
+Public safety is affected due to pothole. Complaint reference 136.,Roads
+The condition of pothole has worsened over the last month. Complaint reference 137.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 138.,Roads
+Public safety is affected due to bridge. Complaint reference 139.,Roads
+Public safety is affected due to bridge. Complaint reference 140.,Roads
+Multiple complaints received regarding junction this week. Complaint reference 141.,Roads
+Public safety is affected due to road crack. Complaint reference 142.,Roads
+The local authority should inspect the pothole immediately. Complaint reference 143.,Roads
+People in the locality are concerned about highway. Complaint reference 144.,Roads
+The local authority should inspect the pavement immediately. Complaint reference 145.,Roads
+Public safety is affected due to road crack. Complaint reference 146.,Roads
+A serious problem related to road crack has been observed. Complaint reference 147.,Roads
+People in the locality are concerned about junction. Complaint reference 148.,Roads
+Repeated requests have been made to resolve the junction issue. Complaint reference 149.,Roads
+Public safety is affected due to road crack. Complaint reference 150.,Roads
+The local authority should inspect the sidewalk immediately. Complaint reference 151.,Roads
+The local authority should inspect the street immediately. Complaint reference 152.,Roads
+Urgent attention required for highway in the residential area. Complaint reference 153.,Roads
+Urgent attention required for crossroad in the residential area. Complaint reference 154.,Roads
+Repeated requests have been made to resolve the crossroad issue. Complaint reference 155.,Roads
+The local authority should inspect the street immediately. Complaint reference 156.,Roads
+Citizens complained about road marking causing inconvenience. Complaint reference 157.,Roads
+Urgent attention required for street in the residential area. Complaint reference 158.,Roads
+Multiple complaints received regarding highway this week. Complaint reference 159.,Roads
+Citizens complained about street causing inconvenience. Complaint reference 160.,Roads
+Citizens complained about bridge causing inconvenience. Complaint reference 161.,Roads
+Citizens complained about road crack causing inconvenience. Complaint reference 162.,Roads
+The condition of pavement has worsened over the last month. Complaint reference 163.,Roads
+People in the locality are concerned about bridge. Complaint reference 164.,Roads
+People in the locality are concerned about pavement. Complaint reference 165.,Roads
+The local authority should inspect the bridge immediately. Complaint reference 166.,Roads
+Citizens complained about road marking causing inconvenience. Complaint reference 167.,Roads
+Urgent attention required for pavement in the residential area. Complaint reference 168.,Roads
+The condition of pavement has worsened over the last month. Complaint reference 169.,Roads
+Multiple complaints received regarding sidewalk this week. Complaint reference 170.,Roads
+Residents reported a bridge issue near the central market. Complaint reference 171.,Roads
+Repeated requests have been made to resolve the road marking issue. Complaint reference 172.,Roads
+Multiple complaints received regarding road crack this week. Complaint reference 173.,Roads
+The condition of pavement has worsened over the last month. Complaint reference 174.,Roads
+Residents reported a pothole issue near the central market. Complaint reference 175.,Roads
+Multiple complaints received regarding road marking this week. Complaint reference 176.,Roads
+Urgent attention required for road crack in the residential area. Complaint reference 177.,Roads
+People in the locality are concerned about bridge. Complaint reference 178.,Roads
+Public safety is affected due to crossroad. Complaint reference 179.,Roads
+People in the locality are concerned about pavement. Complaint reference 180.,Roads
+Residents reported a crossroad issue near the central market. Complaint reference 181.,Roads
+People in the locality are concerned about pavement. Complaint reference 182.,Roads
+The local authority should inspect the street immediately. Complaint reference 183.,Roads
+The condition of bridge has worsened over the last month. Complaint reference 184.,Roads
+Citizens complained about crossroad causing inconvenience. Complaint reference 185.,Roads
+The condition of pothole has worsened over the last month. Complaint reference 186.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 187.,Roads
+Repeated requests have been made to resolve the road crack issue. Complaint reference 188.,Roads
+Residents reported a highway issue near the central market. Complaint reference 189.,Roads
+The condition of street has worsened over the last month. Complaint reference 190.,Roads
+Repeated requests have been made to resolve the pavement issue. Complaint reference 191.,Roads
+People in the locality are concerned about crossroad. Complaint reference 192.,Roads
+The local authority should inspect the highway immediately. Complaint reference 193.,Roads
+Multiple complaints received regarding road marking this week. Complaint reference 194.,Roads
+Public safety is affected due to junction. Complaint reference 195.,Roads
+People in the locality are concerned about road marking. Complaint reference 196.,Roads
+The local authority should inspect the pothole immediately. Complaint reference 197.,Roads
+The local authority should inspect the road crack immediately. Complaint reference 198.,Roads
+Repeated requests have been made to resolve the road crack issue. Complaint reference 199.,Roads
+Multiple complaints received regarding junction this week. Complaint reference 200.,Roads
+People in the locality are concerned about drainage. Complaint reference 1.,Water
+The local authority should inspect the water supply immediately. Complaint reference 2.,Water
+People in the locality are concerned about pipeline. Complaint reference 3.,Water
+The local authority should inspect the water supply immediately. Complaint reference 4.,Water
+Public safety is affected due to drainage. Complaint reference 5.,Water
+People in the locality are concerned about water supply. Complaint reference 6.,Water
+Multiple complaints received regarding pipeline this week. Complaint reference 7.,Water
+Public safety is affected due to fountain. Complaint reference 8.,Water
+Citizens complained about water pressure causing inconvenience. Complaint reference 9.,Water
+Urgent attention required for fountain in the residential area. Complaint reference 10.,Water
+Repeated requests have been made to resolve the hydrant issue. Complaint reference 11.,Water
+Residents reported a water pressure issue near the central market. Complaint reference 12.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 13.,Water
+A serious problem related to water supply has been observed. Complaint reference 14.,Water
+The condition of water pressure has worsened over the last month. Complaint reference 15.,Water
+A serious problem related to tap water has been observed. Complaint reference 16.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 17.,Water
+Multiple complaints received regarding pipeline this week. Complaint reference 18.,Water
+Repeated requests have been made to resolve the pipeline issue. Complaint reference 19.,Water
+Repeated requests have been made to resolve the fountain issue. Complaint reference 20.,Water
+The local authority should inspect the water leakage immediately. Complaint reference 21.,Water
+Citizens complained about water tank causing inconvenience. Complaint reference 22.,Water
+Public safety is affected due to water tank. Complaint reference 23.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 24.,Water
+People in the locality are concerned about water supply. Complaint reference 25.,Water
+The condition of water supply has worsened over the last month. Complaint reference 26.,Water
+Public safety is affected due to water leakage. Complaint reference 27.,Water
+A serious problem related to water pressure has been observed. Complaint reference 28.,Water
+People in the locality are concerned about reservoir. Complaint reference 29.,Water
+The condition of drainage has worsened over the last month. Complaint reference 30.,Water
+Repeated requests have been made to resolve the tap water issue. Complaint reference 31.,Water
+Multiple complaints received regarding tap water this week. Complaint reference 32.,Water
+A serious problem related to reservoir has been observed. Complaint reference 33.,Water
+People in the locality are concerned about water pressure. Complaint reference 34.,Water
+The condition of reservoir has worsened over the last month. Complaint reference 35.,Water
+Public safety is affected due to drainage. Complaint reference 36.,Water
+Repeated requests have been made to resolve the fountain issue. Complaint reference 37.,Water
+Citizens complained about hydrant causing inconvenience. Complaint reference 38.,Water
+People in the locality are concerned about tap water. Complaint reference 39.,Water
+Multiple complaints received regarding water supply this week. Complaint reference 40.,Water
+The condition of water leakage has worsened over the last month. Complaint reference 41.,Water
+Repeated requests have been made to resolve the water pressure issue. Complaint reference 42.,Water
+Repeated requests have been made to resolve the pipeline issue. Complaint reference 43.,Water
+Multiple complaints received regarding pipeline this week. Complaint reference 44.,Water
+Citizens complained about pipeline causing inconvenience. Complaint reference 45.,Water
+The condition of drainage has worsened over the last month. Complaint reference 46.,Water
+Citizens complained about fountain causing inconvenience. Complaint reference 47.,Water
+Urgent attention required for hydrant in the residential area. Complaint reference 48.,Water
+The condition of tap water has worsened over the last month. Complaint reference 49.,Water
+Residents reported a water pressure issue near the central market. Complaint reference 50.,Water
+Residents reported a hydrant issue near the central market. Complaint reference 51.,Water
+Repeated requests have been made to resolve the hydrant issue. Complaint reference 52.,Water
+A serious problem related to water pressure has been observed. Complaint reference 53.,Water
+Urgent attention required for hydrant in the residential area. Complaint reference 54.,Water
+A serious problem related to water pressure has been observed. Complaint reference 55.,Water
+The local authority should inspect the water leakage immediately. Complaint reference 56.,Water
+The local authority should inspect the pipeline immediately. Complaint reference 57.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 58.,Water
+Multiple complaints received regarding water leakage this week. Complaint reference 59.,Water
+Citizens complained about reservoir causing inconvenience. Complaint reference 60.,Water
+The condition of reservoir has worsened over the last month. Complaint reference 61.,Water
+Residents reported a water tank issue near the central market. Complaint reference 62.,Water
+Residents reported a pipeline issue near the central market. Complaint reference 63.,Water
+A serious problem related to drainage has been observed. Complaint reference 64.,Water
+Repeated requests have been made to resolve the water supply issue. Complaint reference 65.,Water
+Repeated requests have been made to resolve the water tank issue. Complaint reference 66.,Water
+Urgent attention required for hydrant in the residential area. Complaint reference 67.,Water
+A serious problem related to drainage has been observed. Complaint reference 68.,Water
+Urgent attention required for drainage in the residential area. Complaint reference 69.,Water
+A serious problem related to water leakage has been observed. Complaint reference 70.,Water
+People in the locality are concerned about hydrant. Complaint reference 71.,Water
+Urgent attention required for reservoir in the residential area. Complaint reference 72.,Water
+The condition of pipeline has worsened over the last month. Complaint reference 73.,Water
+Repeated requests have been made to resolve the water tank issue. Complaint reference 74.,Water
+Repeated requests have been made to resolve the water leakage issue. Complaint reference 75.,Water
+A serious problem related to water tank has been observed. Complaint reference 76.,Water
+Multiple complaints received regarding water supply this week. Complaint reference 77.,Water
+Residents reported a hydrant issue near the central market. Complaint reference 78.,Water
+The local authority should inspect the water tank immediately. Complaint reference 79.,Water
+People in the locality are concerned about tap water. Complaint reference 80.,Water
+Citizens complained about hydrant causing inconvenience. Complaint reference 81.,Water
+Repeated requests have been made to resolve the pipeline issue. Complaint reference 82.,Water
+Urgent attention required for water pressure in the residential area. Complaint reference 83.,Water
+Repeated requests have been made to resolve the fountain issue. Complaint reference 84.,Water
+Repeated requests have been made to resolve the fountain issue. Complaint reference 85.,Water
+Residents reported a fountain issue near the central market. Complaint reference 86.,Water
+The condition of hydrant has worsened over the last month. Complaint reference 87.,Water
+Public safety is affected due to water leakage. Complaint reference 88.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 89.,Water
+The local authority should inspect the water leakage immediately. Complaint reference 90.,Water
+The local authority should inspect the pipeline immediately. Complaint reference 91.,Water
+Urgent attention required for tap water in the residential area. Complaint reference 92.,Water
+The local authority should inspect the water tank immediately. Complaint reference 93.,Water
+Residents reported a water supply issue near the central market. Complaint reference 94.,Water
+Repeated requests have been made to resolve the water pressure issue. Complaint reference 95.,Water
+Citizens complained about water pressure causing inconvenience. Complaint reference 96.,Water
+The condition of reservoir has worsened over the last month. Complaint reference 97.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 98.,Water
+The condition of pipeline has worsened over the last month. Complaint reference 99.,Water
+Multiple complaints received regarding water leakage this week. Complaint reference 100.,Water
+Residents reported a tap water issue near the central market. Complaint reference 101.,Water
+Residents reported a tap water issue near the central market. Complaint reference 102.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 103.,Water
+Public safety is affected due to fountain. Complaint reference 104.,Water
+The condition of fountain has worsened over the last month. Complaint reference 105.,Water
+Residents reported a drainage issue near the central market. Complaint reference 106.,Water
+Multiple complaints received regarding tap water this week. Complaint reference 107.,Water
+Residents reported a water pressure issue near the central market. Complaint reference 108.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 109.,Water
+The local authority should inspect the pipeline immediately. Complaint reference 110.,Water
+Public safety is affected due to hydrant. Complaint reference 111.,Water
+Public safety is affected due to reservoir. Complaint reference 112.,Water
+Citizens complained about water pressure causing inconvenience. Complaint reference 113.,Water
+The condition of reservoir has worsened over the last month. Complaint reference 114.,Water
+Repeated requests have been made to resolve the water pressure issue. Complaint reference 115.,Water
+Urgent attention required for drainage in the residential area. Complaint reference 116.,Water
+Urgent attention required for hydrant in the residential area. Complaint reference 117.,Water
+People in the locality are concerned about hydrant. Complaint reference 118.,Water
+Repeated requests have been made to resolve the water supply issue. Complaint reference 119.,Water
+The local authority should inspect the drainage immediately. Complaint reference 120.,Water
+Urgent attention required for pipeline in the residential area. Complaint reference 121.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 122.,Water
+The condition of drainage has worsened over the last month. Complaint reference 123.,Water
+Public safety is affected due to water tank. Complaint reference 124.,Water
+The condition of water supply has worsened over the last month. Complaint reference 125.,Water
+The condition of water pressure has worsened over the last month. Complaint reference 126.,Water
+The local authority should inspect the water leakage immediately. Complaint reference 127.,Water
+Public safety is affected due to water tank. Complaint reference 128.,Water
+Residents reported a drainage issue near the central market. Complaint reference 129.,Water
+Public safety is affected due to pipeline. Complaint reference 130.,Water
+Repeated requests have been made to resolve the water pressure issue. Complaint reference 131.,Water
+Residents reported a water supply issue near the central market. Complaint reference 132.,Water
+People in the locality are concerned about water supply. Complaint reference 133.,Water
+Residents reported a reservoir issue near the central market. Complaint reference 134.,Water
+Urgent attention required for water supply in the residential area. Complaint reference 135.,Water
+The local authority should inspect the tap water immediately. Complaint reference 136.,Water
+Public safety is affected due to water pressure. Complaint reference 137.,Water
+Residents reported a water tank issue near the central market. Complaint reference 138.,Water
+Citizens complained about water tank causing inconvenience. Complaint reference 139.,Water
+The local authority should inspect the reservoir immediately. Complaint reference 140.,Water
+The condition of water pressure has worsened over the last month. Complaint reference 141.,Water
+People in the locality are concerned about pipeline. Complaint reference 142.,Water
+Repeated requests have been made to resolve the water supply issue. Complaint reference 143.,Water
+Public safety is affected due to water pressure. Complaint reference 144.,Water
+Multiple complaints received regarding water pressure this week. Complaint reference 145.,Water
+Urgent attention required for tap water in the residential area. Complaint reference 146.,Water
+Citizens complained about water leakage causing inconvenience. Complaint reference 147.,Water
+Repeated requests have been made to resolve the reservoir issue. Complaint reference 148.,Water
+Repeated requests have been made to resolve the hydrant issue. Complaint reference 149.,Water
+Multiple complaints received regarding pipeline this week. Complaint reference 150.,Water
+The condition of drainage has worsened over the last month. Complaint reference 151.,Water
+People in the locality are concerned about tap water. Complaint reference 152.,Water
+The condition of drainage has worsened over the last month. Complaint reference 153.,Water
+Urgent attention required for tap water in the residential area. Complaint reference 154.,Water
+Urgent attention required for water supply in the residential area. Complaint reference 155.,Water
+Citizens complained about reservoir causing inconvenience. Complaint reference 156.,Water
+Urgent attention required for reservoir in the residential area. Complaint reference 157.,Water
+The local authority should inspect the water pressure immediately. Complaint reference 158.,Water
+Repeated requests have been made to resolve the pipeline issue. Complaint reference 159.,Water
+Multiple complaints received regarding fountain this week. Complaint reference 160.,Water
+Citizens complained about drainage causing inconvenience. Complaint reference 161.,Water
+The local authority should inspect the water supply immediately. Complaint reference 162.,Water
+A serious problem related to fountain has been observed. Complaint reference 163.,Water
+A serious problem related to pipeline has been observed. Complaint reference 164.,Water
+A serious problem related to water supply has been observed. Complaint reference 165.,Water
+Residents reported a reservoir issue near the central market. Complaint reference 166.,Water
+Repeated requests have been made to resolve the water pressure issue. Complaint reference 167.,Water
+The local authority should inspect the water tank immediately. Complaint reference 168.,Water
+Repeated requests have been made to resolve the reservoir issue. Complaint reference 169.,Water
+People in the locality are concerned about water supply. Complaint reference 170.,Water
+Urgent attention required for pipeline in the residential area. Complaint reference 171.,Water
+Public safety is affected due to drainage. Complaint reference 172.,Water
+Repeated requests have been made to resolve the reservoir issue. Complaint reference 173.,Water
+Public safety is affected due to hydrant. Complaint reference 174.,Water
+Urgent attention required for water tank in the residential area. Complaint reference 175.,Water
+The local authority should inspect the water supply immediately. Complaint reference 176.,Water
+The condition of pipeline has worsened over the last month. Complaint reference 177.,Water
+Repeated requests have been made to resolve the reservoir issue. Complaint reference 178.,Water
+Citizens complained about water pressure causing inconvenience. Complaint reference 179.,Water
+People in the locality are concerned about fountain. Complaint reference 180.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 181.,Water
+Repeated requests have been made to resolve the hydrant issue. Complaint reference 182.,Water
+Urgent attention required for water leakage in the residential area. Complaint reference 183.,Water
+Citizens complained about fountain causing inconvenience. Complaint reference 184.,Water
+Citizens complained about drainage causing inconvenience. Complaint reference 185.,Water
+The local authority should inspect the water supply immediately. Complaint reference 186.,Water
+The local authority should inspect the tap water immediately. Complaint reference 187.,Water
+Multiple complaints received regarding fountain this week. Complaint reference 188.,Water
+Multiple complaints received regarding pipeline this week. Complaint reference 189.,Water
+Repeated requests have been made to resolve the tap water issue. Complaint reference 190.,Water
+Citizens complained about drainage causing inconvenience. Complaint reference 191.,Water
+People in the locality are concerned about drainage. Complaint reference 192.,Water
+Urgent attention required for fountain in the residential area. Complaint reference 193.,Water
+Citizens complained about fountain causing inconvenience. Complaint reference 194.,Water
+People in the locality are concerned about water tank. Complaint reference 195.,Water
+Citizens complained about water supply causing inconvenience. Complaint reference 196.,Water
+People in the locality are concerned about water tank. Complaint reference 197.,Water
+People in the locality are concerned about water pressure. Complaint reference 198.,Water
+Residents reported a water leakage issue near the central market. Complaint reference 199.,Water
+Residents reported a pipeline issue near the central market. Complaint reference 200.,Water
+Multiple complaints received regarding blackout this week. Complaint reference 1.,Electricity
+People in the locality are concerned about street light. Complaint reference 2.,Electricity
+People in the locality are concerned about power line. Complaint reference 3.,Electricity
+The condition of power outage has worsened over the last month. Complaint reference 4.,Electricity
+Multiple complaints received regarding electrical cable this week. Complaint reference 5.,Electricity
+The condition of substation has worsened over the last month. Complaint reference 6.,Electricity
+Public safety is affected due to street light. Complaint reference 7.,Electricity
+The condition of substation has worsened over the last month. Complaint reference 8.,Electricity
+Residents reported a transformer issue near the central market. Complaint reference 9.,Electricity
+The condition of electric pole has worsened over the last month. Complaint reference 10.,Electricity
+The condition of power line has worsened over the last month. Complaint reference 11.,Electricity
+A serious problem related to meter has been observed. Complaint reference 12.,Electricity
+People in the locality are concerned about high voltage. Complaint reference 13.,Electricity
+The local authority should inspect the electric pole immediately. Complaint reference 14.,Electricity
+The local authority should inspect the high voltage immediately. Complaint reference 15.,Electricity
+Citizens complained about power line causing inconvenience. Complaint reference 16.,Electricity
+Repeated requests have been made to resolve the high voltage issue. Complaint reference 17.,Electricity
+Urgent attention required for electrical cable in the residential area. Complaint reference 18.,Electricity
+A serious problem related to high voltage has been observed. Complaint reference 19.,Electricity
+Urgent attention required for meter in the residential area. Complaint reference 20.,Electricity
+The condition of substation has worsened over the last month. Complaint reference 21.,Electricity
+Citizens complained about street light causing inconvenience. Complaint reference 22.,Electricity
+Residents reported a transformer issue near the central market. Complaint reference 23.,Electricity
+Public safety is affected due to substation. Complaint reference 24.,Electricity
+Public safety is affected due to blackout. Complaint reference 25.,Electricity
+Citizens complained about street light causing inconvenience. Complaint reference 26.,Electricity
+People in the locality are concerned about high voltage. Complaint reference 27.,Electricity
+A serious problem related to high voltage has been observed. Complaint reference 28.,Electricity
+The condition of electric pole has worsened over the last month. Complaint reference 29.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 30.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 31.,Electricity
+Residents reported a meter issue near the central market. Complaint reference 32.,Electricity
+Public safety is affected due to transformer. Complaint reference 33.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 34.,Electricity
+A serious problem related to street light has been observed. Complaint reference 35.,Electricity
+The local authority should inspect the blackout immediately. Complaint reference 36.,Electricity
+Residents reported a power outage issue near the central market. Complaint reference 37.,Electricity
+The condition of substation has worsened over the last month. Complaint reference 38.,Electricity
+The condition of blackout has worsened over the last month. Complaint reference 39.,Electricity
+Repeated requests have been made to resolve the substation issue. Complaint reference 40.,Electricity
+Urgent attention required for power outage in the residential area. Complaint reference 41.,Electricity
+Citizens complained about power line causing inconvenience. Complaint reference 42.,Electricity
+The local authority should inspect the substation immediately. Complaint reference 43.,Electricity
+The local authority should inspect the power line immediately. Complaint reference 44.,Electricity
+Public safety is affected due to power outage. Complaint reference 45.,Electricity
+People in the locality are concerned about power outage. Complaint reference 46.,Electricity
+A serious problem related to electrical cable has been observed. Complaint reference 47.,Electricity
+Repeated requests have been made to resolve the high voltage issue. Complaint reference 48.,Electricity
+Urgent attention required for substation in the residential area. Complaint reference 49.,Electricity
+Repeated requests have been made to resolve the power line issue. Complaint reference 50.,Electricity
+Repeated requests have been made to resolve the meter issue. Complaint reference 51.,Electricity
+People in the locality are concerned about substation. Complaint reference 52.,Electricity
+Urgent attention required for blackout in the residential area. Complaint reference 53.,Electricity
+Urgent attention required for electric pole in the residential area. Complaint reference 54.,Electricity
+The local authority should inspect the power line immediately. Complaint reference 55.,Electricity
+Repeated requests have been made to resolve the high voltage issue. Complaint reference 56.,Electricity
+Citizens complained about high voltage causing inconvenience. Complaint reference 57.,Electricity
+People in the locality are concerned about street light. Complaint reference 58.,Electricity
+Public safety is affected due to electrical cable. Complaint reference 59.,Electricity
+Residents reported a electrical cable issue near the central market. Complaint reference 60.,Electricity
+Residents reported a power outage issue near the central market. Complaint reference 61.,Electricity
+The local authority should inspect the electric pole immediately. Complaint reference 62.,Electricity
+Repeated requests have been made to resolve the meter issue. Complaint reference 63.,Electricity
+Citizens complained about meter causing inconvenience. Complaint reference 64.,Electricity
+Repeated requests have been made to resolve the blackout issue. Complaint reference 65.,Electricity
+The local authority should inspect the electric pole immediately. Complaint reference 66.,Electricity
+The local authority should inspect the blackout immediately. Complaint reference 67.,Electricity
+Public safety is affected due to electric pole. Complaint reference 68.,Electricity
+Multiple complaints received regarding blackout this week. Complaint reference 69.,Electricity
+The local authority should inspect the blackout immediately. Complaint reference 70.,Electricity
+Repeated requests have been made to resolve the electrical cable issue. Complaint reference 71.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 72.,Electricity
+Multiple complaints received regarding blackout this week. Complaint reference 73.,Electricity
+Residents reported a meter issue near the central market. Complaint reference 74.,Electricity
+The local authority should inspect the high voltage immediately. Complaint reference 75.,Electricity
+Public safety is affected due to transformer. Complaint reference 76.,Electricity
+Multiple complaints received regarding blackout this week. Complaint reference 77.,Electricity
+People in the locality are concerned about power outage. Complaint reference 78.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 79.,Electricity
+People in the locality are concerned about blackout. Complaint reference 80.,Electricity
+Residents reported a street light issue near the central market. Complaint reference 81.,Electricity
+The condition of blackout has worsened over the last month. Complaint reference 82.,Electricity
+Repeated requests have been made to resolve the electric pole issue. Complaint reference 83.,Electricity
+Public safety is affected due to blackout. Complaint reference 84.,Electricity
+A serious problem related to electric pole has been observed. Complaint reference 85.,Electricity
+People in the locality are concerned about power outage. Complaint reference 86.,Electricity
+A serious problem related to transformer has been observed. Complaint reference 87.,Electricity
+The condition of power outage has worsened over the last month. Complaint reference 88.,Electricity
+Public safety is affected due to high voltage. Complaint reference 89.,Electricity
+Public safety is affected due to electric pole. Complaint reference 90.,Electricity
+Public safety is affected due to street light. Complaint reference 91.,Electricity
+People in the locality are concerned about electrical cable. Complaint reference 92.,Electricity
+Residents reported a meter issue near the central market. Complaint reference 93.,Electricity
+Repeated requests have been made to resolve the electric pole issue. Complaint reference 94.,Electricity
+Repeated requests have been made to resolve the street light issue. Complaint reference 95.,Electricity
+The condition of high voltage has worsened over the last month. Complaint reference 96.,Electricity
+Public safety is affected due to electrical cable. Complaint reference 97.,Electricity
+Citizens complained about high voltage causing inconvenience. Complaint reference 98.,Electricity
+Repeated requests have been made to resolve the meter issue. Complaint reference 99.,Electricity
+Repeated requests have been made to resolve the high voltage issue. Complaint reference 100.,Electricity
+Multiple complaints received regarding high voltage this week. Complaint reference 101.,Electricity
+The condition of blackout has worsened over the last month. Complaint reference 102.,Electricity
+A serious problem related to street light has been observed. Complaint reference 103.,Electricity
+Repeated requests have been made to resolve the substation issue. Complaint reference 104.,Electricity
+A serious problem related to substation has been observed. Complaint reference 105.,Electricity
+Multiple complaints received regarding substation this week. Complaint reference 106.,Electricity
+The condition of street light has worsened over the last month. Complaint reference 107.,Electricity
+The condition of high voltage has worsened over the last month. Complaint reference 108.,Electricity
+Repeated requests have been made to resolve the high voltage issue. Complaint reference 109.,Electricity
+Multiple complaints received regarding substation this week. Complaint reference 110.,Electricity
+People in the locality are concerned about transformer. Complaint reference 111.,Electricity
+Public safety is affected due to electrical cable. Complaint reference 112.,Electricity
+The local authority should inspect the power line immediately. Complaint reference 113.,Electricity
+Multiple complaints received regarding electric pole this week. Complaint reference 114.,Electricity
+Multiple complaints received regarding power outage this week. Complaint reference 115.,Electricity
+The local authority should inspect the transformer immediately. Complaint reference 116.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 117.,Electricity
+A serious problem related to meter has been observed. Complaint reference 118.,Electricity
+Repeated requests have been made to resolve the street light issue. Complaint reference 119.,Electricity
+Repeated requests have been made to resolve the substation issue. Complaint reference 120.,Electricity
+Citizens complained about substation causing inconvenience. Complaint reference 121.,Electricity
+People in the locality are concerned about transformer. Complaint reference 122.,Electricity
+A serious problem related to blackout has been observed. Complaint reference 123.,Electricity
+Residents reported a street light issue near the central market. Complaint reference 124.,Electricity
+A serious problem related to electrical cable has been observed. Complaint reference 125.,Electricity
+Residents reported a street light issue near the central market. Complaint reference 126.,Electricity
+Public safety is affected due to transformer. Complaint reference 127.,Electricity
+The condition of high voltage has worsened over the last month. Complaint reference 128.,Electricity
+Citizens complained about transformer causing inconvenience. Complaint reference 129.,Electricity
+Repeated requests have been made to resolve the power outage issue. Complaint reference 130.,Electricity
+Public safety is affected due to electric pole. Complaint reference 131.,Electricity
+The condition of meter has worsened over the last month. Complaint reference 132.,Electricity
+Multiple complaints received regarding street light this week. Complaint reference 133.,Electricity
+Multiple complaints received regarding high voltage this week. Complaint reference 134.,Electricity
+Urgent attention required for power outage in the residential area. Complaint reference 135.,Electricity
+A serious problem related to blackout has been observed. Complaint reference 136.,Electricity
+Residents reported a electrical cable issue near the central market. Complaint reference 137.,Electricity
+Public safety is affected due to electric pole. Complaint reference 138.,Electricity
+Residents reported a electric pole issue near the central market. Complaint reference 139.,Electricity
+The condition of power line has worsened over the last month. Complaint reference 140.,Electricity
+Multiple complaints received regarding electric pole this week. Complaint reference 141.,Electricity
+Residents reported a power outage issue near the central market. Complaint reference 142.,Electricity
+People in the locality are concerned about substation. Complaint reference 143.,Electricity
+Urgent attention required for blackout in the residential area. Complaint reference 144.,Electricity
+Multiple complaints received regarding high voltage this week. Complaint reference 145.,Electricity
+Repeated requests have been made to resolve the meter issue. Complaint reference 146.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 147.,Electricity
+Repeated requests have been made to resolve the electric pole issue. Complaint reference 148.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 149.,Electricity
+Urgent attention required for street light in the residential area. Complaint reference 150.,Electricity
+Citizens complained about high voltage causing inconvenience. Complaint reference 151.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 152.,Electricity
+Residents reported a electric pole issue near the central market. Complaint reference 153.,Electricity
+Multiple complaints received regarding high voltage this week. Complaint reference 154.,Electricity
+A serious problem related to blackout has been observed. Complaint reference 155.,Electricity
+People in the locality are concerned about electric pole. Complaint reference 156.,Electricity
+Public safety is affected due to power line. Complaint reference 157.,Electricity
+The local authority should inspect the electrical cable immediately. Complaint reference 158.,Electricity
+Public safety is affected due to transformer. Complaint reference 159.,Electricity
+Citizens complained about transformer causing inconvenience. Complaint reference 160.,Electricity
+The condition of electric pole has worsened over the last month. Complaint reference 161.,Electricity
+A serious problem related to high voltage has been observed. Complaint reference 162.,Electricity
+Multiple complaints received regarding power outage this week. Complaint reference 163.,Electricity
+A serious problem related to power line has been observed. Complaint reference 164.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 165.,Electricity
+Multiple complaints received regarding high voltage this week. Complaint reference 166.,Electricity
+People in the locality are concerned about blackout. Complaint reference 167.,Electricity
+Multiple complaints received regarding power outage this week. Complaint reference 168.,Electricity
+A serious problem related to high voltage has been observed. Complaint reference 169.,Electricity
+Urgent attention required for power outage in the residential area. Complaint reference 170.,Electricity
+Multiple complaints received regarding meter this week. Complaint reference 171.,Electricity
+Public safety is affected due to electric pole. Complaint reference 172.,Electricity
+Multiple complaints received regarding electrical cable this week. Complaint reference 173.,Electricity
+Multiple complaints received regarding transformer this week. Complaint reference 174.,Electricity
+People in the locality are concerned about high voltage. Complaint reference 175.,Electricity
+A serious problem related to street light has been observed. Complaint reference 176.,Electricity
+The condition of electric pole has worsened over the last month. Complaint reference 177.,Electricity
+The condition of electric pole has worsened over the last month. Complaint reference 178.,Electricity
+The local authority should inspect the blackout immediately. Complaint reference 179.,Electricity
+Repeated requests have been made to resolve the power line issue. Complaint reference 180.,Electricity
+Repeated requests have been made to resolve the meter issue. Complaint reference 181.,Electricity
+A serious problem related to street light has been observed. Complaint reference 182.,Electricity
+Urgent attention required for blackout in the residential area. Complaint reference 183.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 184.,Electricity
+The local authority should inspect the electrical cable immediately. Complaint reference 185.,Electricity
+People in the locality are concerned about transformer. Complaint reference 186.,Electricity
+Residents reported a transformer issue near the central market. Complaint reference 187.,Electricity
+Repeated requests have been made to resolve the electrical cable issue. Complaint reference 188.,Electricity
+People in the locality are concerned about street light. Complaint reference 189.,Electricity
+Citizens complained about electrical cable causing inconvenience. Complaint reference 190.,Electricity
+The local authority should inspect the electric pole immediately. Complaint reference 191.,Electricity
+The condition of electrical cable has worsened over the last month. Complaint reference 192.,Electricity
+A serious problem related to transformer has been observed. Complaint reference 193.,Electricity
+The condition of blackout has worsened over the last month. Complaint reference 194.,Electricity
+Repeated requests have been made to resolve the transformer issue. Complaint reference 195.,Electricity
+Residents reported a meter issue near the central market. Complaint reference 196.,Electricity
+Citizens complained about meter causing inconvenience. Complaint reference 197.,Electricity
+Public safety is affected due to electrical cable. Complaint reference 198.,Electricity
+People in the locality are concerned about meter. Complaint reference 199.,Electricity
+Repeated requests have been made to resolve the power outage issue. Complaint reference 200.,Electricity
+Multiple complaints received regarding community center this week. Complaint reference 1.,Other
+Public safety is affected due to garbage. Complaint reference 2.,Other
+Residents reported a abandoned vehicle issue near the central market. Complaint reference 3.,Other
+People in the locality are concerned about public toilet. Complaint reference 4.,Other
+Residents reported a park issue near the central market. Complaint reference 5.,Other
+The local authority should inspect the stray animals immediately. Complaint reference 6.,Other
+Repeated requests have been made to resolve the park issue. Complaint reference 7.,Other
+Urgent attention required for garbage in the residential area. Complaint reference 8.,Other
+Residents reported a community center issue near the central market. Complaint reference 9.,Other
+Public safety is affected due to abandoned vehicle. Complaint reference 10.,Other
+Citizens complained about noise causing inconvenience. Complaint reference 11.,Other
+The local authority should inspect the stray animals immediately. Complaint reference 12.,Other
+The condition of stray animals has worsened over the last month. Complaint reference 13.,Other
+Public safety is affected due to stray animals. Complaint reference 14.,Other
+Repeated requests have been made to resolve the park issue. Complaint reference 15.,Other
+The local authority should inspect the noise immediately. Complaint reference 16.,Other
+Citizens complained about park causing inconvenience. Complaint reference 17.,Other
+Public safety is affected due to market area. Complaint reference 18.,Other
+Citizens complained about market area causing inconvenience. Complaint reference 19.,Other
+Residents reported a public toilet issue near the central market. Complaint reference 20.,Other
+Multiple complaints received regarding garbage this week. Complaint reference 21.,Other
+Repeated requests have been made to resolve the community center issue. Complaint reference 22.,Other
+Repeated requests have been made to resolve the stray animals issue. Complaint reference 23.,Other
+A serious problem related to stray animals has been observed. Complaint reference 24.,Other
+The condition of public toilet has worsened over the last month. Complaint reference 25.,Other
+Citizens complained about tree branch causing inconvenience. Complaint reference 26.,Other
+A serious problem related to abandoned vehicle has been observed. Complaint reference 27.,Other
+Residents reported a park issue near the central market. Complaint reference 28.,Other
+People in the locality are concerned about stray animals. Complaint reference 29.,Other
+A serious problem related to garbage has been observed. Complaint reference 30.,Other
+Urgent attention required for public toilet in the residential area. Complaint reference 31.,Other
+People in the locality are concerned about park. Complaint reference 32.,Other
+The condition of garbage has worsened over the last month. Complaint reference 33.,Other
+Residents reported a waste dumping issue near the central market. Complaint reference 34.,Other
+Residents reported a public toilet issue near the central market. Complaint reference 35.,Other
+The condition of stray animals has worsened over the last month. Complaint reference 36.,Other
+Repeated requests have been made to resolve the public toilet issue. Complaint reference 37.,Other
+Residents reported a public toilet issue near the central market. Complaint reference 38.,Other
+Repeated requests have been made to resolve the noise issue. Complaint reference 39.,Other
+A serious problem related to abandoned vehicle has been observed. Complaint reference 40.,Other
+The local authority should inspect the waste dumping immediately. Complaint reference 41.,Other
+People in the locality are concerned about waste dumping. Complaint reference 42.,Other
+A serious problem related to tree branch has been observed. Complaint reference 43.,Other
+Citizens complained about abandoned vehicle causing inconvenience. Complaint reference 44.,Other
+A serious problem related to market area has been observed. Complaint reference 45.,Other
+Multiple complaints received regarding stray animals this week. Complaint reference 46.,Other
+Residents reported a abandoned vehicle issue near the central market. Complaint reference 47.,Other
+People in the locality are concerned about market area. Complaint reference 48.,Other
+Public safety is affected due to noise. Complaint reference 49.,Other
+The condition of market area has worsened over the last month. Complaint reference 50.,Other
+The local authority should inspect the garbage immediately. Complaint reference 51.,Other
+Repeated requests have been made to resolve the stray animals issue. Complaint reference 52.,Other
+Public safety is affected due to tree branch. Complaint reference 53.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 54.,Other
+Public safety is affected due to abandoned vehicle. Complaint reference 55.,Other
+Repeated requests have been made to resolve the noise issue. Complaint reference 56.,Other
+A serious problem related to community center has been observed. Complaint reference 57.,Other
+Multiple complaints received regarding public toilet this week. Complaint reference 58.,Other
+The condition of noise has worsened over the last month. Complaint reference 59.,Other
+Repeated requests have been made to resolve the garbage issue. Complaint reference 60.,Other
+Public safety is affected due to stray animals. Complaint reference 61.,Other
+Repeated requests have been made to resolve the market area issue. Complaint reference 62.,Other
+Public safety is affected due to noise. Complaint reference 63.,Other
+Multiple complaints received regarding public toilet this week. Complaint reference 64.,Other
+The local authority should inspect the public toilet immediately. Complaint reference 65.,Other
+The condition of park has worsened over the last month. Complaint reference 66.,Other
+Urgent attention required for tree branch in the residential area. Complaint reference 67.,Other
+A serious problem related to market area has been observed. Complaint reference 68.,Other
+Multiple complaints received regarding garbage this week. Complaint reference 69.,Other
+People in the locality are concerned about stray animals. Complaint reference 70.,Other
+Residents reported a waste dumping issue near the central market. Complaint reference 71.,Other
+A serious problem related to park has been observed. Complaint reference 72.,Other
+Repeated requests have been made to resolve the waste dumping issue. Complaint reference 73.,Other
+The condition of public toilet has worsened over the last month. Complaint reference 74.,Other
+The local authority should inspect the public toilet immediately. Complaint reference 75.,Other
+Residents reported a abandoned vehicle issue near the central market. Complaint reference 76.,Other
+A serious problem related to public toilet has been observed. Complaint reference 77.,Other
+The condition of park has worsened over the last month. Complaint reference 78.,Other
+People in the locality are concerned about public toilet. Complaint reference 79.,Other
+Public safety is affected due to public toilet. Complaint reference 80.,Other
+Repeated requests have been made to resolve the public toilet issue. Complaint reference 81.,Other
+Multiple complaints received regarding tree branch this week. Complaint reference 82.,Other
+The condition of stray animals has worsened over the last month. Complaint reference 83.,Other
+The local authority should inspect the market area immediately. Complaint reference 84.,Other
+Multiple complaints received regarding abandoned vehicle this week. Complaint reference 85.,Other
+Repeated requests have been made to resolve the tree branch issue. Complaint reference 86.,Other
+The condition of community center has worsened over the last month. Complaint reference 87.,Other
+The condition of park has worsened over the last month. Complaint reference 88.,Other
+A serious problem related to tree branch has been observed. Complaint reference 89.,Other
+The local authority should inspect the tree branch immediately. Complaint reference 90.,Other
+Residents reported a stray animals issue near the central market. Complaint reference 91.,Other
+A serious problem related to waste dumping has been observed. Complaint reference 92.,Other
+Residents reported a noise issue near the central market. Complaint reference 93.,Other
+Repeated requests have been made to resolve the abandoned vehicle issue. Complaint reference 94.,Other
+People in the locality are concerned about waste dumping. Complaint reference 95.,Other
+Multiple complaints received regarding stray animals this week. Complaint reference 96.,Other
+A serious problem related to noise has been observed. Complaint reference 97.,Other
+A serious problem related to tree branch has been observed. Complaint reference 98.,Other
+People in the locality are concerned about stray animals. Complaint reference 99.,Other
+The condition of public toilet has worsened over the last month. Complaint reference 100.,Other
+The local authority should inspect the market area immediately. Complaint reference 101.,Other
+The condition of abandoned vehicle has worsened over the last month. Complaint reference 102.,Other
+The condition of community center has worsened over the last month. Complaint reference 103.,Other
+The local authority should inspect the noise immediately. Complaint reference 104.,Other
+Citizens complained about noise causing inconvenience. Complaint reference 105.,Other
+The condition of market area has worsened over the last month. Complaint reference 106.,Other
+Repeated requests have been made to resolve the noise issue. Complaint reference 107.,Other
+Repeated requests have been made to resolve the garbage issue. Complaint reference 108.,Other
+Urgent attention required for garbage in the residential area. Complaint reference 109.,Other
+Residents reported a garbage issue near the central market. Complaint reference 110.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 111.,Other
+Urgent attention required for public toilet in the residential area. Complaint reference 112.,Other
+Residents reported a noise issue near the central market. Complaint reference 113.,Other
+Repeated requests have been made to resolve the public toilet issue. Complaint reference 114.,Other
+The local authority should inspect the community center immediately. Complaint reference 115.,Other
+People in the locality are concerned about garbage. Complaint reference 116.,Other
+The condition of waste dumping has worsened over the last month. Complaint reference 117.,Other
+Residents reported a community center issue near the central market. Complaint reference 118.,Other
+Repeated requests have been made to resolve the garbage issue. Complaint reference 119.,Other
+Public safety is affected due to market area. Complaint reference 120.,Other
+Residents reported a garbage issue near the central market. Complaint reference 121.,Other
+Multiple complaints received regarding market area this week. Complaint reference 122.,Other
+Multiple complaints received regarding market area this week. Complaint reference 123.,Other
+Repeated requests have been made to resolve the garbage issue. Complaint reference 124.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 125.,Other
+Urgent attention required for park in the residential area. Complaint reference 126.,Other
+Citizens complained about market area causing inconvenience. Complaint reference 127.,Other
+A serious problem related to public toilet has been observed. Complaint reference 128.,Other
+Repeated requests have been made to resolve the waste dumping issue. Complaint reference 129.,Other
+The local authority should inspect the abandoned vehicle immediately. Complaint reference 130.,Other
+Public safety is affected due to abandoned vehicle. Complaint reference 131.,Other
+The local authority should inspect the park immediately. Complaint reference 132.,Other
+The condition of stray animals has worsened over the last month. Complaint reference 133.,Other
+A serious problem related to waste dumping has been observed. Complaint reference 134.,Other
+Multiple complaints received regarding public toilet this week. Complaint reference 135.,Other
+Residents reported a park issue near the central market. Complaint reference 136.,Other
+Public safety is affected due to park. Complaint reference 137.,Other
+Public safety is affected due to stray animals. Complaint reference 138.,Other
+The condition of market area has worsened over the last month. Complaint reference 139.,Other
+Residents reported a garbage issue near the central market. Complaint reference 140.,Other
+Urgent attention required for noise in the residential area. Complaint reference 141.,Other
+Public safety is affected due to community center. Complaint reference 142.,Other
+People in the locality are concerned about tree branch. Complaint reference 143.,Other
+Repeated requests have been made to resolve the park issue. Complaint reference 144.,Other
+A serious problem related to garbage has been observed. Complaint reference 145.,Other
+People in the locality are concerned about public toilet. Complaint reference 146.,Other
+Multiple complaints received regarding community center this week. Complaint reference 147.,Other
+Urgent attention required for garbage in the residential area. Complaint reference 148.,Other
+Repeated requests have been made to resolve the abandoned vehicle issue. Complaint reference 149.,Other
+Residents reported a waste dumping issue near the central market. Complaint reference 150.,Other
+The local authority should inspect the noise immediately. Complaint reference 151.,Other
+A serious problem related to garbage has been observed. Complaint reference 152.,Other
+Citizens complained about waste dumping causing inconvenience. Complaint reference 153.,Other
+Urgent attention required for stray animals in the residential area. Complaint reference 154.,Other
+Citizens complained about abandoned vehicle causing inconvenience. Complaint reference 155.,Other
+A serious problem related to waste dumping has been observed. Complaint reference 156.,Other
+Public safety is affected due to waste dumping. Complaint reference 157.,Other
+The local authority should inspect the market area immediately. Complaint reference 158.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 159.,Other
+Repeated requests have been made to resolve the park issue. Complaint reference 160.,Other
+Residents reported a tree branch issue near the central market. Complaint reference 161.,Other
+Public safety is affected due to park. Complaint reference 162.,Other
+Urgent attention required for public toilet in the residential area. Complaint reference 163.,Other
+People in the locality are concerned about tree branch. Complaint reference 164.,Other
+People in the locality are concerned about waste dumping. Complaint reference 165.,Other
+The local authority should inspect the stray animals immediately. Complaint reference 166.,Other
+Multiple complaints received regarding garbage this week. Complaint reference 167.,Other
+The condition of community center has worsened over the last month. Complaint reference 168.,Other
+The local authority should inspect the public toilet immediately. Complaint reference 169.,Other
+Public safety is affected due to market area. Complaint reference 170.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 171.,Other
+Public safety is affected due to waste dumping. Complaint reference 172.,Other
+People in the locality are concerned about park. Complaint reference 173.,Other
+A serious problem related to abandoned vehicle has been observed. Complaint reference 174.,Other
+Urgent attention required for park in the residential area. Complaint reference 175.,Other
+Citizens complained about abandoned vehicle causing inconvenience. Complaint reference 176.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 177.,Other
+The local authority should inspect the stray animals immediately. Complaint reference 178.,Other
+Urgent attention required for tree branch in the residential area. Complaint reference 179.,Other
+Residents reported a park issue near the central market. Complaint reference 180.,Other
+The condition of abandoned vehicle has worsened over the last month. Complaint reference 181.,Other
+Multiple complaints received regarding tree branch this week. Complaint reference 182.,Other
+Citizens complained about park causing inconvenience. Complaint reference 183.,Other
+Citizens complained about park causing inconvenience. Complaint reference 184.,Other
+The condition of stray animals has worsened over the last month. Complaint reference 185.,Other
+Repeated requests have been made to resolve the market area issue. Complaint reference 186.,Other
+Public safety is affected due to market area. Complaint reference 187.,Other
+Residents reported a park issue near the central market. Complaint reference 188.,Other
+The local authority should inspect the park immediately. Complaint reference 189.,Other
+Urgent attention required for market area in the residential area. Complaint reference 190.,Other
+People in the locality are concerned about waste dumping. Complaint reference 191.,Other
+Public safety is affected due to tree branch. Complaint reference 192.,Other
+Multiple complaints received regarding garbage this week. Complaint reference 193.,Other
+Public safety is affected due to stray animals. Complaint reference 194.,Other
+Repeated requests have been made to resolve the park issue. Complaint reference 195.,Other
+People in the locality are concerned about public toilet. Complaint reference 196.,Other
+Citizens complained about market area causing inconvenience. Complaint reference 197.,Other
+Citizens complained about stray animals causing inconvenience. Complaint reference 198.,Other
+Multiple complaints received regarding noise this week. Complaint reference 199.,Other
+Multiple complaints received regarding abandoned vehicle this week. Complaint reference 200.,Other
