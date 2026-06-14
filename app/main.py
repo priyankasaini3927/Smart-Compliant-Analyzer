@@ -3,6 +3,11 @@ from pydantic import BaseModel
 import uuid
 from app.database import complaints_collection
 from datetime import datetime
+import joblib
+
+# Load the trained model and vectorizer
+model = joblib.load("model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 app = FastAPI()
 
@@ -18,17 +23,8 @@ def analyze(complaint: Complaint):
 
     text = complaint.text.lower()
 
-    if any(word in text for word in ["road", "pothole", "street"]):
-        category = "Roads"
-
-    elif any(word in text for word in ["water", "pipe", "leakage"]):
-        category = "Water"
-
-    elif any(word in text for word in ["electricity", "power", "light"]):
-        category = "Electricity"
-
-    else:
-        category = "Other"
+    text_vectorized = vectorizer.transform([complaint.text])
+    category = model.predict(text_vectorized)[0]
 
     if any(word in text for word in ["urgent", "danger", "fire", "accident"]):
         urgency = "High"
@@ -64,7 +60,7 @@ def get_complaints():
     )
 
     return complaints
-
+    
 @app.get("/stats")
 def get_stats():
 
