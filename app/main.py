@@ -111,6 +111,18 @@ def update_status(
         "new_status": status_update.status
     }
     
+@app.get("/complaints/status/{status}")
+def get_complaints_by_status(status: str):
+
+    complaints = list(
+        complaints_collection.find(
+            {"status": status},
+            {"_id": 0}
+        )
+    )
+
+    return complaints
+
 @app.get("/stats")
 def get_stats():
      
