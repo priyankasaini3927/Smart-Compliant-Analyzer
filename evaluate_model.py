@@ -25,7 +25,7 @@ x_train, x_test, y_train, y_test = train_test_split(
 
 vectorizer = TfidfVectorizer()
 x_train_vectorized = vectorizer.fit_transform(x_train)
-model = LogisticRegression()
+model = LogisticRegression(max_iter=1000)
 model.fit(x_train_vectorized, y_train)
 x_test_vectorized = vectorizer.transform(x_test)
 predictions = model.predict(x_test_vectorized)

@@ -5,6 +5,7 @@ from scipy import stats
 from app.database import complaints_collection
 from datetime import datetime
 import joblib
+from typing import Literal
 
 # Load the trained model and vectorizer
 model = joblib.load("app/model.pkl")
@@ -14,7 +15,15 @@ app = FastAPI()
 
 class Complaint(BaseModel):
     text: str
-        
+    
+class StatusUpdate(BaseModel):
+    status: Literal[
+        "Pending",
+        "In Progress",
+        "Resolved",
+        "Rejected"
+    ]
+
 @app.get("/")
 def home():
     return {"status": "running"}
@@ -26,10 +35,12 @@ def analyze(complaint: Complaint):
 
     text_vectorized = vectorizer.transform([complaint.text])
     probabilities = model.predict_proba(text_vectorized)[0]
+    print(model.classes_)
+    for cls, prob in zip(model.classes_, probabilities):
+        print(f"{cls}: {prob:.4f}")
+    print(type(probabilities))
     confidence = max(probabilities)*100
     confidence = round(confidence, 2)
-    print(probabilities)
-    print(type(probabilities))
     category = model.predict(text_vectorized)[0]
 
     if any(word in text for word in ["urgent", "danger", "fire", "accident"]):
@@ -54,7 +65,7 @@ def analyze(complaint: Complaint):
         "complaint": complaint.text,
         "category": category,
         "urgency": urgency,
-        "confidence": confidence
+        "confidence": f"{confidence}%"
     }
     
 @app.get("/complaints")
@@ -68,6 +79,32 @@ def get_complaints():
     )
 
     return complaints
+
+@app.put("/complaints/{complaint_id}")
+def update_status(
+    complaint_id: str,
+    status_update: StatusUpdate
+):
+
+    result = complaints_collection.update_one(
+        {"complaint_id": complaint_id},
+        {
+            "$set": {
+                "status": status_update.status
+            }
+        }
+    )
+
+    if result.modified_count == 0:
+        return {
+            "message": "Complaint not found"
+        }
+
+    return {
+        "message": "Status updated successfully",
+        "complaint_id": complaint_id,
+        "new_status": status_update.status
+    }
     
 @app.get("/stats")
 def get_stats():
