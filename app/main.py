@@ -69,16 +69,21 @@ def analyze(complaint: Complaint):
     }
     
 @app.get("/complaints")
-def get_complaints():
+def get_complaints(complaint_id: str):
 
-    complaints = list(
+    complaint = list(
         complaints_collection.find(
-            {},
+            {"complaint_id": complaint_id},
             {"_id": 0}
         )
     )
+        
+    if complaint is None:
+        return{
+           "message": "Complaint not found"
+        }
 
-    return complaints
+    return complaint
 
 @app.put("/complaints/{complaint_id}")
 def update_status(
@@ -108,7 +113,13 @@ def update_status(
     
 @app.get("/stats")
 def get_stats():
-
+     
+    status = [
+    "Pending",
+    "In Progress",
+    "Resolved",
+    "Rejected"
+    ]
     categories = [
     "Health",
     "Safety",
@@ -121,11 +132,17 @@ def get_stats():
 
     stats = {}
 
+    stats["Total"] = complaints_collection.count_documents({})
+    
+    for stat in status:
+        stats[stat] = complaints_collection.count_documents(
+            {"status": stat}
+        )
+        
     for category in categories:
         stats[category] = complaints_collection.count_documents(
             {"category": category}
         )
 
-    stats["Total"] = complaints_collection.count_documents({})
 
     return stats
