@@ -67,23 +67,18 @@ def analyze(complaint: Complaint):
         "urgency": urgency,
         "confidence": f"{confidence}%"
     }
-    
-@app.get("/complaints")
-def get_complaints(complaint_id: str):
 
-    complaint = list(
+@app.get("/complaints")
+def get_complaints():
+
+    complaints = list(
         complaints_collection.find(
-            {"complaint_id": complaint_id},
+            {},
             {"_id": 0}
         )
     )
-        
-    if complaint is None:
-        return{
-           "message": "Complaint not found"
-        }
 
-    return complaint
+    return complaints 
 
 @app.put("/complaints/{complaint_id}")
 def update_status(
