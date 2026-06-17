@@ -35,3 +35,15 @@ uvicorn app.main:app --reload
 ## Run Frontend
 
 streamlit run dashboard/app.py
+
+## Completed Features
+
+- Complaint Classification using ML
+- MongoDB Atlas Integration
+- FastAPI Backend
+- Complaint Status Management
+- Analytics API
+- Admin Dashboard
+- Category Analytics
+- Status Analytics
+- Search & Filtering
