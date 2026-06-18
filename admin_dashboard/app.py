@@ -187,4 +187,38 @@ else:
         use_container_width=True
     )
 
+st.subheader("🖋 Update Complaint Status")
+complaint_options = {
+    f"{row['complaint_id']} - {row['category']}":
+    row['complaint_id']
+    for _, row in df.iterrows()
+}
 
+selected_display = st.selectbox(
+    "Select Complaint",
+    list(complaint_options.keys())
+)
+selected_complaint = complaint_options[selected_display]
+
+new_status = st.selectbox(
+    "New Status",
+    [
+        "Pending",
+        "In Progress",
+        "Resolved",
+        "Rejected"
+    ]
+)
+
+if st.button("Update Status"):
+    
+    response = requests.put(
+        f"http://127.0.0.1:8000/complaints/{selected_complaint}",
+        json={
+            "status": new_status
+        }
+    )
+
+    st.success(
+        response.json()["message"]
+    )
