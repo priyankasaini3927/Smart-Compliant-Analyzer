@@ -154,3 +154,37 @@ with col2:
         status_fig,
         use_container_width=True
     )
+    
+high_priority_response = requests.get(
+    "http://127.0.0.1:8000/high-priority"
+)
+
+high_priority_complaints = high_priority_response.json()
+
+high_priority_df = pd.DataFrame(
+    high_priority_complaints
+)
+
+st.subheader("🚨 High Priority Complaints")
+
+priority_columns = [
+    "complaint_id",
+    "complaint",
+    "category",
+    "urgency",
+    "status"
+]
+
+high_priority_count = len(high_priority_df)
+
+if len(high_priority_df) == 0:
+    st.success(
+        "No High Priority Complaints 🎉"
+    )
+else:
+    st.dataframe(
+        high_priority_df[priority_columns],
+        use_container_width=True
+    )
+
+

@@ -118,6 +118,18 @@ def get_complaints_by_status(status: str):
 
     return complaints
 
+@app.get("/high-priority")
+def get_high_priority_complaints():
+
+    complaints = list(
+        complaints_collection.find(
+            {"urgency": "High"},
+            {"_id": 0}
+        )
+    )
+
+    return complaints
+
 @app.get("/stats")
 def get_stats():
      
