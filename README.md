@@ -47,3 +47,15 @@ streamlit run dashboard/app.py
 - Category Analytics
 - Status Analytics
 - Search & Filtering
+
+## Completed Features
+
+- Complaint Classification using ML
+- MongoDB Atlas Integration
+- FastAPI Backend
+- Complaint Status Management
+- Analytics API
+- Admin Dashboard
+- Category Analytics
+- Status Analytics
+- Search & Filtering
