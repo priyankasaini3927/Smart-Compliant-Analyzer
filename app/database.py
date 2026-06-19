@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 import certifi
 
-MONGO_URI = "MY_MONGODM_URI"
+MONGO_URI = "MY_MONGODB_URI"
 
 client = MongoClient(
     MONGO_URI,
