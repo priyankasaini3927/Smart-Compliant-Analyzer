@@ -26,7 +26,7 @@ if st.button("Analyze"):
             st.success("Analysis Complete")
 
             st.write(f"Complaint: {result['complaint']}")
-            st.write(f"ID: {result['id']}")
+            st.write(f"Complaint ID: {result['complaint_id']}")
             st.write(f"Category: {result['category']}")
             st.write(f"Urgency: {result['urgency']}")
 
@@ -39,7 +39,36 @@ response = requests.get(
 
 complaints = response.json()
 
-st.metric(
-    "Total Complaints",
-    len(complaints)
+st.divider()
+
+st.subheader("🔍 Track Complaint Status")
+
+track_id = st.text_input(
+    "Enter Complaint ID"
 )
+
+if st.button("Track Complaint"):
+    
+    response = requests.get(
+        f"http://127.0.0.1:8000/complaints/{track_id}"
+    )
+
+    result = response.json()
+
+    if "message" not in result:
+        col1, col2 = st.columns(2)
+        with col1:
+            st.metric(
+                "Category",
+                result["category"]
+            )
+        with col2:
+            st.metric(
+                "Status",
+                result["status"]
+            )
+        st.write(
+            f"Complaint ID: {result['complaint_id']}"
+        )
+    else:
+        st.error("Complaint not found")

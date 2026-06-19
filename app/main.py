@@ -80,6 +80,21 @@ def get_complaints():
 
     return complaints 
 
+@app.get("/complaints/{complaint_id}")
+def get_complaint(complaint_id: str):
+
+    complaint = complaints_collection.find_one(
+        {"complaint_id": complaint_id},
+        {"_id": 0}
+    )
+
+    if complaint is None:
+        return {
+            "message": "Complaint not found"
+        }
+
+    return complaint
+
 @app.put("/complaints/{complaint_id}")
 def update_status(
     complaint_id: str,
