@@ -25,7 +25,9 @@ The system automatically classifies complaints into predefined categories using 
 - Complaint registration
 - Complaint status management
 - Analytics APIs
-- MongoDB Atlas integration
+- MySQL Database Integration
+- Relational Database Design
+- SQL-based CRUD Operations
 - UUID-based complaint IDs
 
 ### 📊 Admin Dashboard
@@ -79,8 +81,8 @@ Admin Dashboard
 | Backend | FastAPI |
 | Frontend | Streamlit |
 | Machine Learning | Scikit-learn |
-| Database | MongoDB Atlas |
-| Database Driver | PyMongo |
+| Database | MySQL |
+| Database Driver | SQLAlchemy |
 | Data Processing | Pandas |
 | Visualization | Plotly |
 | Model Serialization | Joblib |
@@ -177,7 +179,7 @@ streamlit run public_dashboard/app.py
 - ✅ Search & filtering
 - ✅ High-priority complaint detection
 - ✅ Interactive visualizations
-- ✅ MongoDB Atlas cloud database
+- ✅ MySQL Database
 
 ---
 
