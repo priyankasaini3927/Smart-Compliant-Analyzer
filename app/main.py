@@ -10,7 +10,6 @@ from datetime import datetime
 import joblib
 from typing import Literal
 
-
 # Load the trained model and vectorizer
 model = joblib.load("app/model.pkl")
 vectorizer = joblib.load("app/vectorizer.pkl")
@@ -118,6 +117,7 @@ def update_status(
     db.commit() 
 
     if result == 0:
+
         return {
             "message": "Complaint not found"
         }
@@ -172,6 +172,5 @@ def get_stats(db: Session = Depends(get_db)):
         
     for category in categories:
         stats[category] = db.query(ComplaintModel).filter(ComplaintModel.category == category).count()
-
 
     return stats
