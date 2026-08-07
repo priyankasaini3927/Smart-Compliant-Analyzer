@@ -1,0 +1,241 @@
+# 🚀 Smart Complaint Analyzer
+
+> An AI-powered complaint management system that automates complaint classification, tracking, and analytics using Machine Learning, FastAPI, Streamlit, and MongoDB Atlas.
+
+---
+
+## 📌 Overview
+
+Smart Complaint Analyzer is an intelligent grievance management platform designed to streamline the complaint handling process for organizations and public authorities.
+
+The system automatically classifies complaints into predefined categories using a Machine Learning model, detects urgency, stores complaint records in a cloud database, and provides administrators with a powerful dashboard for monitoring, tracking, and managing complaints.
+
+---
+
+## ✨ Key Features
+
+### 🤖 AI & Machine Learning
+- Complaint classification using Machine Learning
+- Automatic category prediction
+- Confidence score prediction
+- Urgency detection
+
+### 🌐 Backend
+- RESTful APIs built with FastAPI
+- Complaint registration
+- Complaint status management
+- Analytics APIs
+- MongoDB Atlas integration
+- UUID-based complaint IDs
+
+### 📊 Admin Dashboard
+- Secure Admin Login
+- Complaint statistics
+- Complaint status updates
+- Search & filtering
+- High-priority complaint monitoring
+- Interactive analytics dashboard
+- Category distribution charts
+- Status distribution charts
+
+### 👤 Citizen Dashboard
+- Submit complaints
+- Receive unique complaint ID
+- View complaint analysis
+- Track submitted complaints
+
+---
+
+# 🏗️ System Architecture
+
+```text
+Citizen
+    │
+    ▼
+Streamlit Dashboard
+    │
+    ▼
+FastAPI Backend
+    │
+    ├────────► Machine Learning Model
+    │              │
+    │              ▼
+    │       Category Prediction
+    │
+    ▼
+MongoDB Atlas
+    │
+    ▼
+Admin Dashboard
+```
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|------------|
+| Language | Python |
+| Backend | FastAPI |
+| Frontend | Streamlit |
+| Machine Learning | Scikit-learn |
+| Database | MongoDB Atlas |
+| Database Driver | PyMongo |
+| Data Processing | Pandas |
+| Visualization | Plotly |
+| Model Serialization | Joblib |
+
+---
+
+# 📂 Project Structure
+
+```text
+Smart-Complaint-Analyzer/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── model.pkl
+│   ├── vectorizer.pkl
+│   └── ...
+│
+├── admin_dashboard/
+│   └── app.py
+│
+├── public_dashboard/
+│   └── app.py
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/priyankasaini3927/Smart-Complaint-Analyzer.git
+cd Smart-Complaint-Analyzer
+```
+
+---
+
+## 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 3️⃣ Start FastAPI Backend
+
+```bash
+uvicorn app.main:app --reload
+```
+
+Backend URL:
+
+```
+http://127.0.0.1:8000
+```
+
+Swagger Documentation:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+---
+
+## 4️⃣ Launch Admin Dashboard
+
+```bash
+streamlit run admin_dashboard/app.py
+```
+
+---
+
+## 5️⃣ Launch Citizen Dashboard
+
+```bash
+streamlit run public_dashboard/app.py
+```
+
+---
+
+# 📈 Current Capabilities
+
+- ✅ AI-powered complaint classification
+- ✅ Confidence score prediction
+- ✅ Complaint tracking
+- ✅ Complaint status management
+- ✅ Admin dashboard
+- ✅ Complaint analytics
+- ✅ Search & filtering
+- ✅ High-priority complaint detection
+- ✅ Interactive visualizations
+- ✅ MongoDB Atlas cloud database
+
+---
+
+# 📊 Future Roadmap (Version 2)
+
+- MySQL Database
+- JWT Authentication
+- Citizen, Officer & Admin Roles
+- Officer Dashboard
+- Image Upload
+- Notifications
+- PDF Report Generation
+- Complaint Assignment
+- AI Duplicate Complaint Detection
+- AI Priority Prediction
+- React Frontend
+- Docker Deployment
+
+---
+
+# 🎯 Learning Outcomes
+
+This project demonstrates practical implementation of:
+
+- Machine Learning Classification
+- REST API Development
+- Database Design
+- Cloud Database Integration
+- Dashboard Development
+- Data Visualization
+- Backend Development
+- Full Stack Application Architecture
+
+---
+
+# 🤝 Contributing
+
+Contributions, feature suggestions, and improvements are welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+# 📜 License
+
+This project is developed for educational and portfolio purposes.
+
+---
+
+# 👩‍💻 Author
+
+**Priyanka Saini**
+
+AI & Data Science Student
+
+- GitHub: https://github.com/priyankasaini3927
+- LinkedIn: https://www.linkedin.com/in/priyanka-saini-460511261/
+
+---
+
+⭐ If you found this project interesting, consider giving it a star!
