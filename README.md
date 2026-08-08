@@ -30,12 +30,17 @@ The system automatically classifies complaints into predefined categories using 
 - SQL-based CRUD Operations
 - UUID-based complaint IDs
 
+  ## Database -> MySQL
+  <img width="1357" height="538" alt="image" src="https://github.com/user-attachments/assets/34fc783c-83b5-4f68-958a-00eb41a74e77" />
+
 
 ### 👤 Citizen Dashboard
 - Submit complaints
 - Receive unique complaint ID
 - View complaint analysis
 - Track submitted complaints
+
+  ## Citizen Dashboard
   <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/17ec8508-3d4b-4989-a3bf-6234e9448753" />
 
 
@@ -50,9 +55,17 @@ The system automatically classifies complaints into predefined categories using 
 - Interactive analytics dashboard
 - Category distribution charts
 - Status distribution charts
+
+  ## Public Complaint Analysis
   <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/9b1125d0-44b8-4558-b403-6de63270654b" />
+
+  ## Admin Dashboard — Analytics
   <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2e941406-0694-419d-a5e9-1ee96b6bb9de" />
+
+  ## Admin Dashboard — Complaint Management
   <img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/01fe26ae-170a-412e-ae53-a6dbeb432570" />
+
+  ## High Priority & Status Management
   <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/c9f52efa-bc98-45b9-87b7-71aeea0d1455" />
   
 
