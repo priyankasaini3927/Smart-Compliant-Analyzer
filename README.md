@@ -30,6 +30,17 @@ The system automatically classifies complaints into predefined categories using 
 - SQL-based CRUD Operations
 - UUID-based complaint IDs
 
+
+### 👤 Citizen Dashboard
+- Submit complaints
+- Receive unique complaint ID
+- View complaint analysis
+- Track submitted complaints
+  <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/17ec8508-3d4b-4989-a3bf-6234e9448753" />
+
+
+---
+
 ### 📊 Admin Dashboard
 - Secure Admin Login
 - Complaint statistics
@@ -39,14 +50,12 @@ The system automatically classifies complaints into predefined categories using 
 - Interactive analytics dashboard
 - Category distribution charts
 - Status distribution charts
+  <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/9b1125d0-44b8-4558-b403-6de63270654b" />
+  <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2e941406-0694-419d-a5e9-1ee96b6bb9de" />
+  <img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/01fe26ae-170a-412e-ae53-a6dbeb432570" />
+  <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/c9f52efa-bc98-45b9-87b7-71aeea0d1455" />
+  
 
-### 👤 Citizen Dashboard
-- Submit complaints
-- Receive unique complaint ID
-- View complaint analysis
-- Track submitted complaints
-
----
 
 # 🏗️ System Architecture
 
